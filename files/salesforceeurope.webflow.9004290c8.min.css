@@ -2006,7 +2006,6 @@ li{
 }
 .hero-overflow.right.hero-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -3163,7 +3162,7 @@ li{
   background-color:var(--sfe-blue)
 }
 .blog-section{
-  background-image:url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image:url(./background-image.svg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -5582,7 +5581,7 @@ li{
   font-weight:700
 }
 .section-9{
-  background-image:url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image:url(./background-image.svg);
   background-position:50% 0;
   background-size:cover;
   height:auto
@@ -5734,7 +5733,7 @@ li{
   padding:255px 10px
 }
 .section-13{
-  background-image:url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image:url(./background-image.svg);
   background-position:0 0;
   background-size:cover
 }
@@ -5845,7 +5844,7 @@ li{
   font-size:20px
 }
 .section-16{
-  background-image:url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image:url(./background-image.svg);
   background-position:50%;
   background-size:cover;
   justify-content:center;
@@ -6105,7 +6104,7 @@ li{
   max-width:100%
 }
 .image-11{
-  background-image:url(https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg);
+  background-image:url(./background-image.svg);
   background-position:0 0;
   background-size:cover;
   max-width:100%;
