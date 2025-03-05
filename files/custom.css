@@ -3610,6 +3610,9 @@
         float:left
     }
 }
+.copyrightfooter-divblock a:hover {
+    text-decoration: underline !important;
+}
 .leadinModal-v2 .leadin-preview-wrapper .dyno-image{
     padding-top:0
 }
