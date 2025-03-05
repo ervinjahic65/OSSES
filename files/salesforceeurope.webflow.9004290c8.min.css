@@ -1750,7 +1750,6 @@ textarea.w-input,textarea.w-select{
   margin-left:4px
 }
 .w-embed-youtubevideo{
-  background-image:url(https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg);
   background-position:50%;
   background-size:cover;
   width:100%;
@@ -1842,7 +1841,7 @@ li{
 }
 .hero-section{
   z-index:10;
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7140649ee3b0d529a981a4_homepage%202.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./5e7140649ee3b0d529a981a4_homepage%202.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -2007,7 +2006,7 @@ li{
 }
 .hero-overflow.right.hero-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(https://cdn.prod.website-files.com/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -2235,7 +2234,7 @@ li{
   line-height:32px
 }
 .testimonial-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e72b32b655a2f1bb0c45f9d_scott.png);
+  background-image:url(./5e72b32b655a2f1bb0c45f9d_scott.png);
   background-position:0 0;
   background-size:cover;
   border-radius:100%;
@@ -2244,12 +2243,12 @@ li{
   margin-bottom:15px
 }
 .testimonial-image._2nd{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e72b32b655a2fffc1c45f9e_raymond.png),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b5f6676e4bf408d43909d_jurica-koletic-7YVZYZeITc8-unsplash%20\(1\).jpg);
+  background-image:url(./5e72b32b655a2fffc1c45f9e_raymond.png),url(./5e2b5f6676e4bf408d43909d_jurica-koletic-7YVZYZeITc8-unsplash%20\(1\).jpg);
   background-position:0 0,0 0;
   background-size:cover,cover
 }
 .div-block{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b5f6676e4bf408d43909d_jurica-koletic-7YVZYZeITc8-unsplash%20\(1\).jpg);
+  background-image:url(./5e2b5f6676e4bf408d43909d_jurica-koletic-7YVZYZeITc8-unsplash%20\(1\).jpg);
   background-position:50%;
   background-size:cover;
   border-radius:100%;
@@ -2288,7 +2287,7 @@ li{
   padding-bottom:0
 }
 .about-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b6e6d52301a11b611bd1d_Screen%20Shot%202020-01-24%20at%205.08.29%20PM.png);
+  background-image:url(./5e2b6e6d52301a11b611bd1d_Screen%20Shot%202020-01-24%20at%205.08.29%20PM.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -2422,7 +2421,7 @@ li{
   padding-right:5px
 }
 .news-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825a593595a9f811c07302_shutterstock_667292656.jpg);
+  background-image:url(./5e825a593595a9f811c07302_shutterstock_667292656.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -2471,7 +2470,7 @@ li{
 .contact-section{
   grid-column-gap:16px;
   grid-row-gap:16px;
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eac903985c94f60b1a3b424_shutterstock_287193896.jpg);
+  background-image:linear-gradient(#00000080,#00000080),url(./5eac903985c94f60b1a3b424_shutterstock_287193896.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -2630,7 +2629,7 @@ li{
   display:inline-block
 }
 .aboutus-section{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a6603c0df0cb49195524a_slide-2.jpg);
+  background-image:url(./5e7a6603c0df0cb49195524a_slide-2.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -2697,7 +2696,7 @@ li{
   line-height:24px
 }
 .ourteam-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e73e09f0a912b55713546c0_rick.png),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b5f6676e4bf408d43909d_jurica-koletic-7YVZYZeITc8-unsplash%20\(1\).jpg);
+  background-image:url(./5e73e09f0a912b55713546c0_rick.png),url(./5e2b5f6676e4bf408d43909d_jurica-koletic-7YVZYZeITc8-unsplash%20\(1\).jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:cover,cover;
@@ -2709,21 +2708,21 @@ li{
   margin-right:auto
 }
 .ourteam-image.ourteam-image-rick{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65b1823c8a229a6658ef1025_rick-pizzoli-headshot.png);
+  background-image:url(./65b1823c8a229a6658ef1025_rick-pizzoli-headshot.png);
   background-position:50%;
   background-repeat:repeat;
   background-size:cover;
   border:.05px solid #eee
 }
 .ourteam-image.ourteam-image-gavin{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e73e09ff9b6d15018f5bacc_gavin.png);
+  background-image:url(./5e73e09ff9b6d15018f5bacc_gavin.png);
   background-position:0 0;
   background-repeat:repeat;
   background-size:cover;
   border:.05px solid #e6e3e3
 }
 .ourteam-image.ourteam-image-elena{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e73e09eba24f2aa14d3ee72_elena.png);
+  background-image:url(./5e73e09eba24f2aa14d3ee72_elena.png);
   background-position:0 0;
   background-repeat:repeat;
   background-size:cover;
@@ -2744,7 +2743,7 @@ li{
 }
 .impact-section{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eea65ce3e3727cf499f2ea4_mapaSFEok.png);
+  background-image:url(./5eea65ce3e3727cf499f2ea4_mapaSFEok.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -2827,7 +2826,7 @@ li{
   font-family:Muli,sans-serif
 }
 .ourservices-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7152a178db3a1a32554f63_services%202.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5e7152a178db3a1a32554f63_services%202.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -2859,7 +2858,7 @@ li{
   padding-right:5px
 }
 .sales-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825835686619c54b105226_shutterstock_492340057.jpg);
+  background-image:url(./5e825835686619c54b105226_shutterstock_492340057.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -2925,7 +2924,7 @@ li{
   margin-right:25px
 }
 .clientlist-section{
-  background-image:linear-gradient(#0003,#0003),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eaa18c37d1de5e9f3c73a87_shutterstock_506948350_1400x933.jpg);
+  background-image:linear-gradient(#0003,#0003),url(./5eaa18c37d1de5e9f3c73a87_shutterstock_506948350_1400x933.jpg);
   background-position:0 0,50% 30%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -2979,7 +2978,7 @@ li{
 }
 .trustarc-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b674f52301a92a5115808_96961C5AF6A621E6.png);
+  background-image:url(./5e2b674f52301a92a5115808_96961C5AF6A621E6.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 45%;
@@ -2987,7 +2986,7 @@ li{
 }
 .good-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b6728b39e2474567fb261_354AF9AEBFE4655F.png);
+  background-image:url(./5e2b6728b39e2474567fb261_354AF9AEBFE4655F.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -2995,7 +2994,7 @@ li{
 }
 .adobe-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2cb0ef60dc1a236bea2a99_adobe.png);
+  background-image:url(./5e2cb0ef60dc1a236bea2a99_adobe.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3070,7 +3069,7 @@ li{
 }
 .booking-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2cb531d2e067833aaaa2b8_booking.png);
+  background-image:url(./5e2cb531d2e067833aaaa2b8_booking.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:90%;
@@ -3078,7 +3077,7 @@ li{
 }
 .adazza-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b683976e4bf5dad43ea59_Adazza_Logo.png);
+  background-image:url(./5e2b683976e4bf5dad43ea59_Adazza_Logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3086,7 +3085,7 @@ li{
 }
 .arozza-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2cb56c60dc1ac70cea4d46_arozza.png);
+  background-image:url(./5e2cb56c60dc1ac70cea4d46_arozza.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:85%;
@@ -3269,7 +3268,7 @@ li{
 }
 .section{
   object-fit:fill;
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e715929b86667134de4b00b_newsletter.jpg);
+  background-image:linear-gradient(#00000080,#00000080),url(./5e715929b86667134de4b00b_newsletter.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   flex-flow:row;
@@ -3547,7 +3546,7 @@ li{
 }
 .newsletterpage-section{
   object-fit:fill;
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e715929b86667134de4b00b_newsletter.jpg);
+  background-image:linear-gradient(#00000080,#00000080),url(./5e715929b86667134de4b00b_newsletter.jpg);
   background-position:0 0,50% 100%;
   background-size:auto,cover;
   flex-flow:row;
@@ -3592,7 +3591,7 @@ li{
   font-weight:700
 }
 .salesoutsource-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eac953c6af9c85924d40927_shutterstock_3878431992.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5eac953c6af9c85924d40927_shutterstock_3878431992.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   justify-content:center;
@@ -3602,7 +3601,7 @@ li{
   display:flex
 }
 .salesassessment-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825a593595a9f811c07302_shutterstock_667292656.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5e825a593595a9f811c07302_shutterstock_667292656.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   justify-content:center;
@@ -3619,7 +3618,7 @@ li{
 }
 .interop-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e442365a9e54501ca5e7f_Interop-Technologoies_Logo.png);
+  background-image:url(./5e7e442365a9e54501ca5e7f_Interop-Technologoies_Logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:75%;
@@ -3627,7 +3626,7 @@ li{
 }
 .shire-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b698ec79e641635459e27_Shire_Logo.png);
+  background-image:url(./5e2b698ec79e641635459e27_Shire_Logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3635,7 +3634,7 @@ li{
 }
 .exp-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a80251c601fd54b028952_EXP-International.jpeg);
+  background-image:url(./5e7a80251c601fd54b028952_EXP-International.jpeg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -3643,7 +3642,7 @@ li{
 }
 .ist-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a80dcff525a6a34ada510_ist.png);
+  background-image:url(./5e7a80dcff525a6a34ada510_ist.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:35%;
@@ -3651,7 +3650,7 @@ li{
 }
 .ringcentral-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e4359df522d820915c722_LOGO-RingCentral-Inc..png);
+  background-image:url(./5e7e4359df522d820915c722_LOGO-RingCentral-Inc..png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3659,7 +3658,7 @@ li{
 }
 .ozmo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a8132951c669556c970fa_ozom.png);
+  background-image:url(./5e7a8132951c669556c970fa_ozom.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3667,7 +3666,7 @@ li{
 }
 .richrevelance-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60de20210f504126c039df5a_algonomy.png);
+  background-image:url(./60de20210f504126c039df5a_algonomy.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3675,7 +3674,7 @@ li{
 }
 .comunycarse-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a84c76dcdb3191c05ac6f_Screen-Shot-2017-12-06-at-2.51.32-PM.png);
+  background-image:url(./5e7a84c76dcdb3191c05ac6f_Screen-Shot-2017-12-06-at-2.51.32-PM.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3683,7 +3682,7 @@ li{
 }
 .corporater-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a84de074b123a9cf51ee0_logo2.png);
+  background-image:url(./5e7a84de074b123a9cf51ee0_logo2.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -3691,7 +3690,7 @@ li{
 }
 .governor-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb350c56a6e844925ec4cf3_Governor-logo-sivuteksti-vektori-fixed.png);
+  background-image:url(./5eb350c56a6e844925ec4cf3_Governor-logo-sivuteksti-vektori-fixed.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3699,7 +3698,7 @@ li{
 }
 .tivo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e455ddf522d7a3d15d02b_tivo-logo-png-transparent.png);
+  background-image:url(./5e7e455ddf522d7a3d15d02b_tivo-logo-png-transparent.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:25%;
@@ -3707,7 +3706,7 @@ li{
 }
 .mmuze-imgae{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a85e8c6517a7bf43bc5de_Screen-Shot-2017-09-20-at-7.16.34-PM.png);
+  background-image:url(./5e7a85e8c6517a7bf43bc5de_Screen-Shot-2017-09-20-at-7.16.34-PM.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3715,7 +3714,7 @@ li{
 }
 .audiocode-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb34fb8fa63c84dc7a135d9_ac.png);
+  background-image:url(./5eb34fb8fa63c84dc7a135d9_ac.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:35%;
@@ -3723,7 +3722,7 @@ li{
 }
 .swisscom-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e513ed2513eba2ef8bf63_swisscom.png);
+  background-image:url(./5e7e513ed2513eba2ef8bf63_swisscom.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
@@ -3731,7 +3730,7 @@ li{
 }
 .amermounts-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e511156f6836e26e7b339_amer.png);
+  background-image:url(./5e7e511156f6836e26e7b339_amer.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3739,7 +3738,7 @@ li{
 }
 .softathome-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a8778970a064ea0f7b746_softathome.png);
+  background-image:url(./5e7a8778970a064ea0f7b746_softathome.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 55%;
@@ -3747,7 +3746,7 @@ li{
 }
 .graebel-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb45178dea78570f5b06864_graebel.png);
+  background-image:url(./5eb45178dea78570f5b06864_graebel.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3755,7 +3754,7 @@ li{
 }
 .tellabs-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e53bf999416413e73c5c3_tellabs-logo-page.png);
+  background-image:url(./5e7e53bf999416413e73c5c3_tellabs-logo-page.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3763,7 +3762,7 @@ li{
 }
 .applause-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e94c06ba1a39019e9f18391_applause-logo.png);
+  background-image:url(./5e94c06ba1a39019e9f18391_applause-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3771,7 +3770,7 @@ li{
 }
 .livescribe-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e56ac84bb512c1333ab52_livescribeindex.png);
+  background-image:url(./5e7e56ac84bb512c1333ab52_livescribeindex.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3779,7 +3778,7 @@ li{
 }
 .smartling-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e56edfecd267abfbec023_smarling.png);
+  background-image:url(./5e7e56edfecd267abfbec023_smarling.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3787,7 +3786,7 @@ li{
 }
 .digitalsmiths-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb454a5d3648bc0763432d8_digitalsmiths.png);
+  background-image:url(./5eb454a5d3648bc0763432d8_digitalsmiths.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:80%;
@@ -3795,7 +3794,7 @@ li{
 }
 .icex-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a88782016b92098fc489e_500829ab840056d0fe4235ed05d0fc8e.jpg);
+  background-image:url(./5e7a88782016b92098fc489e_500829ab840056d0fe4235ed05d0fc8e.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -3803,7 +3802,7 @@ li{
 }
 .usrobotics-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a888dc6517ab4d43bda4f_1280px-USRobotics-Logo.svg_.png);
+  background-image:url(./5e7a888dc6517ab4d43bda4f_1280px-USRobotics-Logo.svg_.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3811,7 +3810,7 @@ li{
 }
 .extendmedia-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a88d9c6fa25eb5ee258ec_extendmedia.jpg);
+  background-image:url(./5e7a88d9c6fa25eb5ee258ec_extendmedia.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto;
@@ -3819,7 +3818,7 @@ li{
 }
 .on2-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e565ad627fa717ff72d9f_on2.png);
+  background-image:url(./5e7e565ad627fa717ff72d9f_on2.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:55%;
@@ -3827,7 +3826,7 @@ li{
 }
 .streetline-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb5f5f80e0bc8d85b5f3d75_streetline-logo.png);
+  background-image:url(./5eb5f5f80e0bc8d85b5f3d75_streetline-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -3835,7 +3834,7 @@ li{
 }
 .livefyre-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7a892373e11143d98bd483_005kq3srHqgdGxc3ZuCDNki-1.fit_scale.size_2698x1517.v1569485069.jpg);
+  background-image:url(./5e7a892373e11143d98bd483_005kq3srHqgdGxc3ZuCDNki-1.fit_scale.size_2698x1517.v1569485069.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 55%;
@@ -3843,7 +3842,7 @@ li{
 }
 .pof-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb458dbfc914f405d178a04_KDPOF_Logo.png);
+  background-image:url(./5fb458dbfc914f405d178a04_KDPOF_Logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 60%;
@@ -3936,7 +3935,7 @@ li{
   font-family:Muli,sans-serif
 }
 .contacthero-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eac903985c94f60b1a3b424_shutterstock_287193896.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5eac903985c94f60b1a3b424_shutterstock_287193896.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   justify-content:center;
@@ -3998,7 +3997,7 @@ li{
   color:var(--black)
 }
 .lead-generation-hero-section{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7d1b5c66bf4821cc148b3e_slier-1.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./5e7d1b5c66bf4821cc148b3e_slier-1.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   justify-content:center;
@@ -4034,7 +4033,7 @@ li{
   margin-top:20px
 }
 .lead-hero-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eac93ff5c6b73994f12545d_shutterstock_1171791613.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5eac93ff5c6b73994f12545d_shutterstock_1171791613.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   justify-content:center;
@@ -4209,21 +4208,21 @@ li{
   inset:0% 0% auto auto
 }
 .sales-assessment-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825835686619c54b105226_shutterstock_492340057.jpg);
+  background-image:url(./5e825835686619c54b105226_shutterstock_492340057.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
   height:200px
 }
 .sales-lead-gen-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e82592e262a893381423866_shutterstock_158411336.jpg);
+  background-image:url(./5e82592e262a893381423866_shutterstock_158411336.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
   height:200px
 }
 .sales-outsource-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e82599622128d723e802877_shutterstock_662834149.jpg);
+  background-image:url(./5e82599622128d723e802877_shutterstock_662834149.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -4286,7 +4285,7 @@ li{
 }
 .blog-hero-section{
   object-fit:fill;
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e715929b86667134de4b00b_newsletter.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5e715929b86667134de4b00b_newsletter.jpg);
   background-position:0 0,50% 100%;
   background-size:auto,cover;
   flex-flow:row;
@@ -4322,7 +4321,7 @@ li{
   padding-bottom:15px
 }
 .ebook-section{
-  background-image:linear-gradient(#0003,#0003),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7140649ee3b0d529a981a4_homepage%202.jpg);
+  background-image:linear-gradient(#0003,#0003),url(./5e7140649ee3b0d529a981a4_homepage%202.jpg);
   background-position:0 0,0 0;
   background-size:auto,cover;
   justify-content:center;
@@ -4408,7 +4407,7 @@ li{
 }
 .ebook-overflow.right.hero-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -4441,7 +4440,7 @@ li{
 }
 .ebook-overflow.right.ebook-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -4489,7 +4488,7 @@ li{
 }
 .ebook-overflow.ebook-right-right.hero-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -4522,7 +4521,7 @@ li{
 }
 .ebook-overflow.ebook-right-right.ebook-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -4571,7 +4570,7 @@ li{
   background-color:#ffdf2e
 }
 .ebook-ty-section{
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/64cd3e2430d03b7d7c040946_business-development-services.png);
+  background-image:linear-gradient(#00000080,#00000080),url(./64cd3e2430d03b7d7c040946_business-development-services.png);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -4715,7 +4714,7 @@ li{
   color:var(--white)
 }
 .ty-contact-us-section{
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825835686619c54b105226_shutterstock_492340057.jpg);
+  background-image:linear-gradient(#00000080,#00000080),url(./5e825835686619c54b105226_shutterstock_492340057.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -4737,7 +4736,7 @@ li{
   color:var(--white)
 }
 .newsletter-sign-up-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eaa18c37d1de5e9f3c73a87_shutterstock_506948350_1400x933.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5eaa18c37d1de5e9f3c73a87_shutterstock_506948350_1400x933.jpg);
   background-position:0 0,50% 30%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -4762,7 +4761,7 @@ li{
   display:none
 }
 .image-4{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b6e6d52301a11b611bd1d_Screen%20Shot%202020-01-24%20at%205.08.29%20PM.png);
+  background-image:url(./5e2b6e6d52301a11b611bd1d_Screen%20Shot%202020-01-24%20at%205.08.29%20PM.png);
   background-position:0 0;
   background-size:125px;
   width:50%;
@@ -4918,7 +4917,7 @@ li{
 }
 .engie-impact-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb34c04fa63c8222fa10d97_engie.png);
+  background-image:url(./5eb34c04fa63c8222fa10d97_engie.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -4926,7 +4925,7 @@ li{
 }
 .zurich-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ebb09311ce63e82d7bd43f4_zurich.png);
+  background-image:url(./5ebb09311ce63e82d7bd43f4_zurich.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -4934,7 +4933,7 @@ li{
 }
 .theoremus-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb6d9687ee24a7921eea809_theoremus-logo.png);
+  background-image:url(./5fb6d9687ee24a7921eea809_theoremus-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
@@ -4942,7 +4941,7 @@ li{
 }
 .threekit-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e94c194720e27108256ea54_threekit_logo_web_191.png);
+  background-image:url(./5e94c194720e27108256ea54_threekit_logo_web_191.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -4967,7 +4966,7 @@ li{
 }
 .yara-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ebf2db1ff32c44107ed7836_1200px-Yara_International_\(emblem\).svg.png);
+  background-image:url(./5ebf2db1ff32c44107ed7836_1200px-Yara_International_\(emblem\).svg.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
@@ -5012,7 +5011,7 @@ li{
 }
 .zurich-image-copy{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ebb09311ce63e82d7bd43f4_zurich.png);
+  background-image:url(./5ebb09311ce63e82d7bd43f4_zurich.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5020,7 +5019,7 @@ li{
 }
 .swisscom-image-copy{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7e513ed2513eba2ef8bf63_swisscom.png);
+  background-image:url(./5e7e513ed2513eba2ef8bf63_swisscom.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -5028,14 +5027,14 @@ li{
 }
 .unicredit-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ec5ac64b40d9a98344af61f_logoHiRes.png);
+  background-image:url(./5ec5ac64b40d9a98344af61f_logoHiRes.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
   height:200px
 }
 .partner-section{
-  background-image:linear-gradient(#0003,#0003),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825835686619c54b105226_shutterstock_492340057.jpg);
+  background-image:linear-gradient(#0003,#0003),url(./5e825835686619c54b105226_shutterstock_492340057.jpg);
   background-position:0 0,50% 0;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -5047,7 +5046,7 @@ li{
 }
 .telecom-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edac6f4e93ebbf25e3ba278_TC_Logo_web_290.png);
+  background-image:url(./5edac6f4e93ebbf25e3ba278_TC_Logo_web_290.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5055,7 +5054,7 @@ li{
 }
 .inspir-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edad6ff7591044f54d8dba4_Logo-Inspiralia_120px.png);
+  background-image:url(./5edad6ff7591044f54d8dba4_Logo-Inspiralia_120px.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5063,7 +5062,7 @@ li{
 }
 .bgi-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edad8a8800a231e06683373_Screen-Shot-2020-06-05-at-3.36.55-PM.png);
+  background-image:url(./5edad8a8800a231e06683373_Screen-Shot-2020-06-05-at-3.36.55-PM.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5071,7 +5070,7 @@ li{
 }
 .hubspot-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edadf104bc6a56c04149322_hubspot.png);
+  background-image:url(./5edadf104bc6a56c04149322_hubspot.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5079,7 +5078,7 @@ li{
 }
 .capdigital-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edae14c55b72c356c20db98_logo_Cap_Digital-1.png);
+  background-image:url(./5edae14c55b72c356c20db98_logo_Cap_Digital-1.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5087,7 +5086,7 @@ li{
 }
 .eit-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edae3f87f70cb876c4e18a4_eit.png);
+  background-image:url(./5edae3f87f70cb876c4e18a4_eit.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5095,7 +5094,7 @@ li{
 }
 .portugal-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edae74bbca2fab53d8c523a_portugal-ventures.png);
+  background-image:url(./5edae74bbca2fab53d8c523a_portugal-ventures.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5103,7 +5102,7 @@ li{
 }
 .tekes-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edeb5acd990ecce2cf1c57e_logo-en.png);
+  background-image:url(./5edeb5acd990ecce2cf1c57e_logo-en.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5111,7 +5110,7 @@ li{
 }
 .sourceseek-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edec09bd990ecb756f20b17_SourceSeek_logo.png);
+  background-image:url(./5edec09bd990ecb756f20b17_SourceSeek_logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5119,7 +5118,7 @@ li{
 }
 .predictablerevenue-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edec35beb1625efa29916a9_predictable-revenue-logo.png);
+  background-image:url(./5edec35beb1625efa29916a9_predictable-revenue-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5127,7 +5126,7 @@ li{
 }
 .ts-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edec4fc52eb28529a94387e_ts%20copy.png);
+  background-image:url(./5edec4fc52eb28529a94387e_ts%20copy.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5135,7 +5134,7 @@ li{
 }
 .elisa-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5edec7b0cc96649cbe8d6d3e_logo-elisa_2x.png);
+  background-image:url(./5edec7b0cc96649cbe8d6d3e_logo-elisa_2x.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5161,7 +5160,7 @@ li{
 }
 .digitate-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eeab2bd06c26f6b93f6470f_logo_afa2cef6e6521b79fff634f2ea5f4838_2x.png);
+  background-image:url(./5eeab2bd06c26f6b93f6470f_logo_afa2cef6e6521b79fff634f2ea5f4838_2x.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -5169,7 +5168,7 @@ li{
 }
 .scjunction-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eeab41731253abd2456f28c_scjunctionlogo.png);
+  background-image:url(./5eeab41731253abd2456f28c_scjunctionlogo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5177,7 +5176,7 @@ li{
 }
 .splendit-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ef287d6a2a315350527dc54_SplendIT.png);
+  background-image:url(./5ef287d6a2a315350527dc54_SplendIT.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5185,7 +5184,7 @@ li{
 }
 .cyberland-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5f07680a510c51209d5e7fdf_Antiphish_logo_final.png);
+  background-image:url(./5f07680a510c51209d5e7fdf_Antiphish_logo_final.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:30%;
@@ -5193,7 +5192,7 @@ li{
 }
 .kleecks-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ef288283270ddfb475cd747_logo-kleecks-alt_120_retina.png);
+  background-image:url(./5ef288283270ddfb475cd747_logo-kleecks-alt_120_retina.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:40%;
@@ -5201,7 +5200,7 @@ li{
 }
 .kee-digital-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eec040b9f8fb0a80dfccdc4_5eea248dae66a277b56dc7c5_by_mainbrand_color.png);
+  background-image:url(./5eec040b9f8fb0a80dfccdc4_5eea248dae66a277b56dc7c5_by_mainbrand_color.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5209,7 +5208,7 @@ li{
 }
 .konsentus-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eec050eb6682038701975cd_konsentus-logo-full-colour.png);
+  background-image:url(./5eec050eb6682038701975cd_konsentus-logo-full-colour.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -5217,7 +5216,7 @@ li{
 }
 .bluugo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5ef288835411b7b432a16ec2_icon-512x512.33e5e86ba992.png);
+  background-image:url(./5ef288835411b7b432a16ec2_icon-512x512.33e5e86ba992.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -5225,7 +5224,7 @@ li{
 }
 .fidelis-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5f07689f22c8b12128b22b0c_logo-Fidelis-green-lg.png);
+  background-image:url(./5f07689f22c8b12128b22b0c_logo-Fidelis-green-lg.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -5265,7 +5264,7 @@ li{
 }
 .eero-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5f07633cf38fdb30080451f9_48aed2f5.png);
+  background-image:url(./5f07633cf38fdb30080451f9_48aed2f5.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:40%;
@@ -5304,7 +5303,7 @@ li{
 }
 .yellowdog-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6171c8968cb6e32fbbd91c33_yellowdog.png);
+  background-image:url(./6171c8968cb6e32fbbd91c33_yellowdog.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 55%;
@@ -5312,7 +5311,7 @@ li{
 }
 .klaatu-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5f5ffca36248300f3f528e56_klaatu.png);
+  background-image:url(./5f5ffca36248300f3f528e56_klaatu.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 35%;
@@ -5320,7 +5319,7 @@ li{
 }
 .gft-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5f5fff0e1b66c7c8afb89268_GFT.png);
+  background-image:url(./5f5fff0e1b66c7c8afb89268_GFT.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 25%;
@@ -5328,7 +5327,7 @@ li{
 }
 .juju-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb581b6b162ff1f1b07e255_juju-logo.png);
+  background-image:url(./5fb581b6b162ff1f1b07e255_juju-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 25%;
@@ -5336,7 +5335,7 @@ li{
 }
 .upskill-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb45d04ffa30dbfbbbbbb58_upskill.png);
+  background-image:url(./5fb45d04ffa30dbfbbbbbb58_upskill.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 30%;
@@ -5344,7 +5343,7 @@ li{
 }
 .seagate-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb6d9bc41842f8de948ba5b_seagate-logo-two.png);
+  background-image:url(./5fb6d9bc41842f8de948ba5b_seagate-logo-two.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 90%;
@@ -5352,7 +5351,7 @@ li{
 }
 .aplanet-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb464c6d9ba46c44da0ff2e_aplanetlogo_green-1.png);
+  background-image:url(./5fb464c6d9ba46c44da0ff2e_aplanetlogo_green-1.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 30%;
@@ -5360,7 +5359,7 @@ li{
 }
 .sumup-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb46eef3c18f3c1e378a063_sumup-logo.png);
+  background-image:url(./5fb46eef3c18f3c1e378a063_sumup-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
@@ -5368,7 +5367,7 @@ li{
 }
 .inpost-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb4709ef694a2ea73cf400a_inpost-logo.png);
+  background-image:url(./5fb4709ef694a2ea73cf400a_inpost-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -5376,7 +5375,7 @@ li{
 }
 .vesium-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb4741d6a0b9c2c11451fc7_vesium-logo.png);
+  background-image:url(./5fb4741d6a0b9c2c11451fc7_vesium-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -5384,7 +5383,7 @@ li{
 }
 .found-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb6de976add106190603709_found-logo-two.png);
+  background-image:url(./5fb6de976add106190603709_found-logo-two.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto;
@@ -5392,7 +5391,7 @@ li{
 }
 .zivver-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb4785d2767a46cefe20339_zivver-logo.png);
+  background-image:url(./5fb4785d2767a46cefe20339_zivver-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto;
@@ -5400,7 +5399,7 @@ li{
 }
 .zento-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb47b501ee3b22ff79eaa20_zento-logo.png);
+  background-image:url(./5fb47b501ee3b22ff79eaa20_zento-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:35%;
@@ -5408,7 +5407,7 @@ li{
 }
 .intralink-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fb57c66c220c324a07bf9c4_intralink-logo.png);
+  background-image:url(./5fb57c66c220c324a07bf9c4_intralink-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
@@ -5416,7 +5415,7 @@ li{
 }
 .gp-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/66e36d08e1c4078294857c9d_g-p-logo.png);
+  background-image:url(./66e36d08e1c4078294857c9d_g-p-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:40%;
@@ -5435,7 +5434,7 @@ li{
   grid-template-columns:1fr 1fr 1fr
 }
 .section-6{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60f1c5df76fbf17ce3ed91c9_sales-outsourcing-videos.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./60f1c5df76fbf17ce3ed91c9_sales-outsourcing-videos.jpg);
   background-position:0 0,50%;
   background-size:auto,cover;
   align-items:center;
@@ -5630,7 +5629,7 @@ li{
   padding-top:0
 }
 .section-11{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5fd2c4f643558f6e785af18c_john-towner-UO02gAW3c0c-unsplash.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./5fd2c4f643558f6e785af18c_john-towner-UO02gAW3c0c-unsplash.jpg);
   background-position:0 0,50%;
   background-size:auto,cover;
   flex-direction:row;
@@ -5966,7 +5965,7 @@ li{
   display:inline-block
 }
 .image-10{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825a593595a9f811c07302_shutterstock_667292656.jpg);
+  background-image:url(./5e825a593595a9f811c07302_shutterstock_667292656.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -5975,7 +5974,7 @@ li{
   display:block
 }
 .div-block-45{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825a593595a9f811c07302_shutterstock_667292656.jpg);
+  background-image:url(./5e825a593595a9f811c07302_shutterstock_667292656.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -6078,7 +6077,7 @@ li{
   font-weight:700
 }
 .ebook-global-section{
-  background-image:linear-gradient(#0003,#0003),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7140649ee3b0d529a981a4_homepage%202.jpg);
+  background-image:linear-gradient(#0003,#0003),url(./5e7140649ee3b0d529a981a4_homepage%202.jpg);
   background-position:0 0,50% 0;
   background-size:auto,cover;
   justify-content:center;
@@ -6088,7 +6087,7 @@ li{
   display:flex
 }
 .ebook-ty-global-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60de3fd1676c090f41635cec_shutterstock_1171732147.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./60de3fd1676c090f41635cec_shutterstock_1171732147.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -6145,7 +6144,7 @@ li{
   overflow:visible
 }
 .isv-hero-section{
-  background-image:linear-gradient(#0003,#0003),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60a82f19469300817f7f2eb7_60a579d5409cbf4b895e62a6_shutterstock_1452101777.jpeg);
+  background-image:linear-gradient(#0003,#0003),url(./60a82f19469300817f7f2eb7_60a579d5409cbf4b895e62a6_shutterstock_1452101777.jpeg);
   background-position:0 0,50% 0;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -6177,21 +6176,21 @@ li{
   padding-right:5px
 }
 .isv-sales-assessment-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/606b75659207dc4f74edeb09_alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg);
+  background-image:url(./606b75659207dc4f74edeb09_alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
   height:200px
 }
 .isv-sales-lead-gen-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e82592e262a893381423866_shutterstock_158411336.jpg);
+  background-image:url(./5e82592e262a893381423866_shutterstock_158411336.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
   height:200px
 }
 .isv-inside-sales-image{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e82599622128d723e802877_shutterstock_662834149.jpg);
+  background-image:url(./5e82599622128d723e802877_shutterstock_662834149.jpg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:cover;
@@ -6207,7 +6206,7 @@ li{
   margin-right:25px
 }
 .ourservices-section-copy{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e7152a178db3a1a32554f63_services%202.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./5e7152a178db3a1a32554f63_services%202.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -6437,7 +6436,7 @@ li{
   height:100%
 }
 .ebook-hero-section{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e825a593595a9f811c07302_shutterstock_667292656.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./5e825a593595a9f811c07302_shutterstock_667292656.jpg);
   background-position:0 0,50%;
   background-size:auto,cover;
   flex-direction:row;
@@ -6754,7 +6753,7 @@ li{
 }
 .isv-hero-overflow.right.hero-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -6816,7 +6815,7 @@ li{
 }
 .isv-next-step-hero-overflow.right.hero-right{
   z-index:5;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:1200px;
   width:330%;
@@ -6854,7 +6853,7 @@ li{
   color:var(--sfe-purple)
 }
 .div-block-76{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 0;
   background-size:cover;
   margin-left:0;
@@ -6867,7 +6866,7 @@ li{
   margin-left:120px
 }
 .div-block-78{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+  background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
   background-position:0 100%;
   background-size:cover;
   margin-left:-70px;
@@ -7014,7 +7013,7 @@ li{
   display:block
 }
 .div-block-86{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   flex:1;
@@ -7049,7 +7048,7 @@ li{
   color:var(--sfe-purple)
 }
 .div-block-89{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   padding-top:300px;
@@ -7110,7 +7109,7 @@ li{
   display:flex
 }
 .div-block-96{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   flex:0 auto;
@@ -7119,7 +7118,7 @@ li{
   margin-top:0
 }
 .div-block-97{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   flex:0 auto;
@@ -7138,7 +7137,7 @@ li{
   display:flex
 }
 .div-block-99{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   flex:0 auto;
@@ -7257,7 +7256,7 @@ li{
   font-family:Muli,sans-serif
 }
 .image-19{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:0 0;
   background-size:auto;
   width:50%;
@@ -7265,7 +7264,7 @@ li{
 }
 .div-block-106{
   text-align:left;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   width:50%
@@ -7329,7 +7328,7 @@ li{
   display:block
 }
 .div-block-109{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   max-width:none;
@@ -7353,13 +7352,13 @@ li{
   height:100%
 }
 .div-block-111{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/606f94f7d0398eaaf6a036ef_fabio-mangione-fs1B0RX4j1o-unsplash.jpg);
+  background-image:url(./606f94f7d0398eaaf6a036ef_fabio-mangione-fs1B0RX4j1o-unsplash.jpg);
   background-position:0 0;
   background-size:cover;
   height:577px
 }
 .div-block-112{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/609db0f5220e73a791f29a7a_ebook-1.png);
+  background-image:url(./609db0f5220e73a791f29a7a_ebook-1.png);
   background-position:50%;
   background-size:cover;
   height:auto
@@ -7531,7 +7530,7 @@ li{
   line-height:24px
 }
 .isv-hero-microsoft-section{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60de3fd1676c090f41635cec_shutterstock_1171732147.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./60de3fd1676c090f41635cec_shutterstock_1171732147.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -7543,7 +7542,7 @@ li{
 }
 .deepinstinct-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6171a5a84554b31418c43fb2_deep-instinct.png);
+  background-image:url(./6171a5a84554b31418c43fb2_deep-instinct.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -7551,7 +7550,7 @@ li{
 }
 .odaseva-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60c930e01226aea8a035e4b2_odaseva_logo.png);
+  background-image:url(./60c930e01226aea8a035e4b2_odaseva_logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
@@ -7561,7 +7560,7 @@ li{
 }
 .performancebay-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60ca13d0e807b374ccddc331_logo1.png);
+  background-image:url(./60ca13d0e807b374ccddc331_logo1.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto;
@@ -7569,76 +7568,76 @@ li{
 }
 .universalavenue-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cba7c0a0287507fb970bac_universal-avenue.png);
+  background-image:url(./60cba7c0a0287507fb970bac_universal-avenue.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .keyforbusiness-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cbae04022931f793b78b92_key-for-business-amazon.png);
+  background-image:url(./60cbae04022931f793b78b92_key-for-business-amazon.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .mila-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cbb24345f5cb04409dc436_mila.png);
+  background-image:url(./60cbb24345f5cb04409dc436_mila.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .onetwotrip-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cbb826e8a5a9e3d944cd9f_one-two-trip-logo.png);
+  background-image:url(./60cbb826e8a5a9e3d944cd9f_one-two-trip-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .verimatrix-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cbcddd7110ec38463821a7_verimatrix-logo-color.png);
+  background-image:url(./60cbcddd7110ec38463821a7_verimatrix-logo-color.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .ecomply-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cbd2c3ab5296d5d71ac9e8_eclogo.png);
+  background-image:url(./60cbd2c3ab5296d5d71ac9e8_eclogo.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .daon-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cbd988c43e3e1d6324fe62_daon-logo.png);
+  background-image:url(./60cbd988c43e3e1d6324fe62_daon-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .microsoftgeo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cd2fc8347c3954b112809b_Microsoft-Logo-PNG-Transparent.png);
+  background-image:url(./60cd2fc8347c3954b112809b_Microsoft-Logo-PNG-Transparent.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .asiamarket-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cd32c5c2d010bbf07f4189_asia-market-entry-logo.png);
+  background-image:url(./60cd32c5c2d010bbf07f4189_asia-market-entry-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .australiance-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60cd36495efaf1c9e4f4947a_Australiance%20logo%20bleu%20-%20Leo%20DENES.png);
+  background-image:url(./60cd36495efaf1c9e4f4947a_Australiance%20logo%20bleu%20-%20Leo%20DENES.png);
   background-position:50%;
   background-repeat:no-repeat;
   height:200px
 }
 .section-35{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/645b50d120c38b15ab0109e3_Business%20Development%20Service.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./645b50d120c38b15ab0109e3_Business%20Development%20Service.jpg);
   background-position:0 0,50% 0;
   background-size:auto,cover;
   height:auto;
@@ -7647,7 +7646,7 @@ li{
 .div-block-122{
   opacity:1;
   -webkit-text-fill-color:inherit;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/64ed66eeec10005d854d727d_Drive%20Revenue%20Success%20with%20Fractional%20CRO%20Services%20by%20Sales%20Force%20Europe.jpg);
+  background-image:url(./64ed66eeec10005d854d727d_Drive%20Revenue%20Success%20with%20Fractional%20CRO%20Services%20by%20Sales%20Force%20Europe.jpg);
   background-position:50% 100%;
   background-size:auto;
   background-clip:border-box;
@@ -7831,7 +7830,7 @@ li{
 }
 .example-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/610d5ebf2031d0bc87fc16c1_jesse-collins-MoaLwVf_0ho-unsplash.jpeg);
+  background-image:url(./610d5ebf2031d0bc87fc16c1_jesse-collins-MoaLwVf_0ho-unsplash.jpeg);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:auto 55%;
@@ -7850,7 +7849,7 @@ li{
   line-height:27px
 }
 .ebook-ty-global-section-two{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6047d2798900304cc12a02c0_shutterstock_175340078.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./6047d2798900304cc12a02c0_shutterstock_175340078.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -7866,7 +7865,7 @@ li{
 }
 .phoenixlighting-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f0938cff69a49886c9f90_phoenixlighting.png);
+  background-image:url(./616f0938cff69a49886c9f90_phoenixlighting.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -7874,7 +7873,7 @@ li{
 }
 .vaultplatform-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f11b649bb22072fd5df22_vaultplatform.png);
+  background-image:url(./616f11b649bb22072fd5df22_vaultplatform.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:140px;
@@ -7882,7 +7881,7 @@ li{
 }
 .seeq-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f19c749bb22a9abd60e10_seeq.png);
+  background-image:url(./616f19c749bb22a9abd60e10_seeq.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:100px;
@@ -7890,7 +7889,7 @@ li{
 }
 .provision-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f23fddc6a9ef79e3d1cec_provision.png);
+  background-image:url(./616f23fddc6a9ef79e3d1cec_provision.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:220px;
@@ -7898,7 +7897,7 @@ li{
 }
 .tallarium-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f2ad354d71f5092b8e37d_tallarium.png);
+  background-image:url(./616f2ad354d71f5092b8e37d_tallarium.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:219px;
@@ -7906,7 +7905,7 @@ li{
 }
 .xopa-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f2b33bd25950c0e002a3b_X0PA.png);
+  background-image:url(./616f2b33bd25950c0e002a3b_X0PA.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:130px;
@@ -7914,7 +7913,7 @@ li{
 }
 ._2badvice-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/616f2b7a6e70837feeb9597e_2b-advice.png);
+  background-image:url(./616f2b7a6e70837feeb9597e_2b-advice.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -7948,7 +7947,7 @@ li{
   list-style-type:decimal
 }
 .section-35-copy{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61a57b1b67e2a073cb8e40c6_shutterstock_1064763818.jpeg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./61a57b1b67e2a073cb8e40c6_shutterstock_1064763818.jpeg);
   background-position:0 0,50%;
   background-size:auto,cover;
   height:auto;
@@ -8093,7 +8092,7 @@ li{
   text-decoration:none
 }
 .questions-hero-image{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61e20bc0775d72be28e5e3c1_shutterstock_178533569.jpeg);
+  background-image:linear-gradient(#0006,#0006),url(./61e20bc0775d72be28e5e3c1_shutterstock_178533569.jpeg);
   background-position:0 0,50% 0;
   background-size:auto,cover;
   height:auto;
@@ -8110,7 +8109,7 @@ li{
   box-shadow:1px 1px 20px 2px #00000026
 }
 .ty-questions-hero{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/620c098607569b1a52543162_shutterstock_175340078.jpeg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./620c098607569b1a52543162_shutterstock_175340078.jpeg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -8143,7 +8142,7 @@ li{
 }
 .sfe-partner-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61f1dbb8e970211448a379a3_SFE%20Full%20Color.png);
+  background-image:url(./61f1dbb8e970211448a379a3_SFE%20Full%20Color.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:70%;
@@ -8151,7 +8150,7 @@ li{
 }
 .rready-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61f2ff94c4cadd3b084e2bc1_logo_rready_weiss.png);
+  background-image:url(./61f2ff94c4cadd3b084e2bc1_logo_rready_weiss.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:160px;
@@ -8159,7 +8158,7 @@ li{
 }
 .applixure-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61f467f29192c64d8f35263e_applixure-logo.png);
+  background-image:url(./61f467f29192c64d8f35263e_applixure-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -8167,7 +8166,7 @@ li{
 }
 .planetly-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61f47d507e08d51dacc0ac11_planetly-logo.png);
+  background-image:url(./61f47d507e08d51dacc0ac11_planetly-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -8175,7 +8174,7 @@ li{
 }
 .agorocarbon-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61f4822e5b23731a9dc43549_agoro-carbon-logo.png);
+  background-image:url(./61f4822e5b23731a9dc43549_agoro-carbon-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -8183,7 +8182,7 @@ li{
 }
 .camtouch3d-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61f489767346d62256ec93c7_camtouch3d-logo.png);
+  background-image:url(./61f489767346d62256ec93c7_camtouch3d-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:252px;
@@ -8191,7 +8190,7 @@ li{
 }
 .trejhara-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61fc841586c5690faf460653_Screen%20Shot%202022-02-03%20at%205.39.41%20PM.png);
+  background-image:url(./61fc841586c5690faf460653_Screen%20Shot%202022-02-03%20at%205.39.41%20PM.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:175px;
@@ -8199,7 +8198,7 @@ li{
 }
 .lunu-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61faef416af6724443f6c94e_lunu-logo.png);
+  background-image:url(./61faef416af6724443f6c94e_lunu-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -8207,7 +8206,7 @@ li{
 }
 .trustly-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61fafe28c628c93e3ea98726_trustly-logo.png);
+  background-image:url(./61fafe28c628c93e3ea98726_trustly-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -8215,7 +8214,7 @@ li{
 }
 .alma-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61fb1d81b6218866ce778b32_alma-logo.png);
+  background-image:url(./61fb1d81b6218866ce778b32_alma-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:95px;
@@ -8223,7 +8222,7 @@ li{
 }
 .mycts-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61fb2f2f8c02f13a4489e356_mycts-logo.png);
+  background-image:url(./61fb2f2f8c02f13a4489e356_mycts-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:120px;
@@ -8233,7 +8232,7 @@ li{
   margin-top:50px
 }
 .gtm-hero-image{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/620c098607569b1a52543162_shutterstock_175340078.jpeg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./620c098607569b1a52543162_shutterstock_175340078.jpeg);
   background-position:0 0,50%;
   background-size:auto,cover;
   height:auto;
@@ -8298,7 +8297,7 @@ li{
 }
 .proofpoint-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62180d5f625d277c3cea4610_proofpoint.png);
+  background-image:url(./62180d5f625d277c3cea4610_proofpoint.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -8306,7 +8305,7 @@ li{
 }
 .mapsiot-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6218100cf4dc0e0fb3a23292_truemps.png);
+  background-image:url(./6218100cf4dc0e0fb3a23292_truemps.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -8314,7 +8313,7 @@ li{
 }
 .leonardo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/621981506fcace3319147f15_leonardo.png);
+  background-image:url(./621981506fcace3319147f15_leonardo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:230px;
@@ -8322,7 +8321,7 @@ li{
 }
 .pyxis-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/621982ccc8b510e51cbb2981_pyxis.png);
+  background-image:url(./621982ccc8b510e51cbb2981_pyxis.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:160px;
@@ -8330,7 +8329,7 @@ li{
 }
 .globetek-partner-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/621d596ca102244f25121038_globetek.png);
+  background-image:url(./621d596ca102244f25121038_globetek.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:60%;
@@ -8338,7 +8337,7 @@ li{
 }
 .safekiddo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/621e6eab9b77774a0f6abb0f_SafeKiddo.png);
+  background-image:url(./621e6eab9b77774a0f6abb0f_SafeKiddo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:170px;
@@ -8346,7 +8345,7 @@ li{
 }
 .groupcaliber-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/626c4e47e6b01c372d64eb92_groupcaliber-logo.png);
+  background-image:url(./626c4e47e6b01c372d64eb92_groupcaliber-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:130px;
@@ -8354,7 +8353,7 @@ li{
 }
 .keeper-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/626c66456bd421b8b6d2adc5_keeper-logo.png);
+  background-image:url(./626c66456bd421b8b6d2adc5_keeper-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -8362,7 +8361,7 @@ li{
 }
 .councilbox-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/626c6a82a1c2667bc39e24c1_councilbox-logo.png);
+  background-image:url(./626c6a82a1c2667bc39e24c1_councilbox-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:210px;
@@ -8370,7 +8369,7 @@ li{
 }
 .chaos-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62708c502398f8257216aad8_chaos-logo.png);
+  background-image:url(./62708c502398f8257216aad8_chaos-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:130px;
@@ -8378,7 +8377,7 @@ li{
 }
 .directcommerce-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62708ff6e3b6867f98b216c0_directcommerce-logo.png);
+  background-image:url(./62708ff6e3b6867f98b216c0_directcommerce-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -8386,7 +8385,7 @@ li{
 }
 .openmind-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62709203e3b6862bdcb21bd5_omn-logo.png);
+  background-image:url(./62709203e3b6862bdcb21bd5_omn-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:170px;
@@ -8394,7 +8393,7 @@ li{
 }
 .sigma-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62c8712e2c86478687599b34_sigma-logo.png);
+  background-image:url(./62c8712e2c86478687599b34_sigma-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:180px;
@@ -8402,7 +8401,7 @@ li{
 }
 .zwipe-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62c874ee0e1ce41c4534486e_zwipe-logo.png);
+  background-image:url(./62c874ee0e1ce41c4534486e_zwipe-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:180px;
@@ -8410,7 +8409,7 @@ li{
 }
 .amberscript-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62c87cfbede9df17e4d362eb_amberscript-logo.png);
+  background-image:url(./62c87cfbede9df17e4d362eb_amberscript-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:180px;
@@ -8418,7 +8417,7 @@ li{
 }
 .cyberguru-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62d1c8023d6b10c0ec23ceb1_cyberguru-logo.png);
+  background-image:url(./62d1c8023d6b10c0ec23ceb1_cyberguru-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:160px;
@@ -8426,7 +8425,7 @@ li{
 }
 .bighealth-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62c87d0ae0a9af9edd03c895_big-health.png);
+  background-image:url(./62c87d0ae0a9af9edd03c895_big-health.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -8434,7 +8433,7 @@ li{
 }
 .senhasegura-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62d0a3f7f1857fdeed36b859_senhasegura-logo.png);
+  background-image:url(./62d0a3f7f1857fdeed36b859_senhasegura-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -8442,7 +8441,7 @@ li{
 }
 .efecte-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62d0a409fb9f7691ef8b6343_efecte-logo.png);
+  background-image:url(./62d0a409fb9f7691ef8b6343_efecte-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:110px;
@@ -8450,7 +8449,7 @@ li{
 }
 .polystar-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62d0a4119b46318e28df4467_elisa-logo.png);
+  background-image:url(./62d0a4119b46318e28df4467_elisa-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:110px;
@@ -8458,7 +8457,7 @@ li{
 }
 .billkiller-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62d1dba1aff36ea62c927563_bill-killer-logo.png);
+  background-image:url(./62d1dba1aff36ea62c927563_bill-killer-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:181px;
@@ -8466,7 +8465,7 @@ li{
 }
 .autobahn-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/62d0a434264cdc7a80fb2514_autobahn-logo.png);
+  background-image:url(./62d0a434264cdc7a80fb2514_autobahn-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:181px;
@@ -8474,7 +8473,7 @@ li{
 }
 .infraspeak-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6328f03f61c6a5504d4353a1_infraspeak.png);
+  background-image:url(./6328f03f61c6a5504d4353a1_infraspeak.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:230px;
@@ -8482,7 +8481,7 @@ li{
 }
 .meight-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6328f2d412d31454589fb9fa_meight.png);
+  background-image:url(./6328f2d412d31454589fb9fa_meight.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -8490,7 +8489,7 @@ li{
 }
 .orbitalinsight-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6328f67fbcee66008e6cdfce_orbital-insight.png);
+  background-image:url(./6328f67fbcee66008e6cdfce_orbital-insight.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:220px;
@@ -8498,7 +8497,7 @@ li{
 }
 .urbnx-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6328f939507a8639bc1b6d3a_URBNX.png);
+  background-image:url(./6328f939507a8639bc1b6d3a_URBNX.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:165px;
@@ -8602,7 +8601,7 @@ li{
 }
 .cmas-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d311e678d4855d4f658d77_cmas.png);
+  background-image:url(./63d311e678d4855d4f658d77_cmas.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:155px;
@@ -8610,7 +8609,7 @@ li{
 }
 .sendinblue-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d31396d77e86e92579c379_sendinblue.png);
+  background-image:url(./63d31396d77e86e92579c379_sendinblue.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:230px;
@@ -8618,7 +8617,7 @@ li{
 }
 .revolgy-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d3156c813e98ceb7210cc4_revolgy.png);
+  background-image:url(./63d3156c813e98ceb7210cc4_revolgy.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:160px;
@@ -8626,7 +8625,7 @@ li{
 }
 .enghouse-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d316ca2bf6f240c25656eb_enghouse.png);
+  background-image:url(./63d316ca2bf6f240c25656eb_enghouse.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -8634,7 +8633,7 @@ li{
 }
 .snap-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d31954db3482d15cc2c11c_snap.png);
+  background-image:url(./63d31954db3482d15cc2c11c_snap.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:120px;
@@ -8642,7 +8641,7 @@ li{
 }
 .mr-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d31ab091cabbd8b4134e41_mr.png);
+  background-image:url(./63d31ab091cabbd8b4134e41_mr.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -8650,7 +8649,7 @@ li{
 }
 .inspexion-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d31baf330882985aa95162_inspexion.png);
+  background-image:url(./63d31baf330882985aa95162_inspexion.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:220px;
@@ -8658,7 +8657,7 @@ li{
 }
 .hakuna-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/63d31d635db728d6f3228175_hakuna.png);
+  background-image:url(./63d31d635db728d6f3228175_hakuna.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -8671,7 +8670,7 @@ li{
   font-weight:700
 }
 .section-france-lead-generation{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6413a50d1251e310865566b9_florian-wehde-milUxSbp4_A-unsplash.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./6413a50d1251e310865566b9_florian-wehde-milUxSbp4_A-unsplash.jpg);
   background-position:0 0,50%;
   background-size:auto,cover;
   height:auto;
@@ -8680,7 +8679,7 @@ li{
 .contact-section-france{
   grid-column-gap:16px;
   grid-row-gap:16px;
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eac903985c94f60b1a3b424_shutterstock_287193896.jpg);
+  background-image:linear-gradient(#00000080,#00000080),url(./5eac903985c94f60b1a3b424_shutterstock_287193896.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -8745,7 +8744,7 @@ li{
   text-align:center
 }
 .newsletter-hero-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6438973a5d744f6a874c0cd1_european-sales-tips.png);
+  background-image:linear-gradient(#0006,#0006),url(./6438973a5d744f6a874c0cd1_european-sales-tips.png);
   background-position:0 0,50% 0;
   background-size:auto,cover;
   justify-content:center;
@@ -8913,14 +8912,14 @@ li{
   color:var(--sfe-purple)
 }
 .b2b-lead-generation-hero{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/614b8d7059e0d64dcdd2cc44_shutterstock_2029621493.jpeg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./614b8d7059e0d64dcdd2cc44_shutterstock_2029621493.jpeg);
   background-position:0 0,50% 100%;
   background-size:auto,cover;
   height:auto;
   padding:0
 }
 .sales-outsourcing-europe-hero{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/646bff42a599ffea810cd95d_sales-outsourcing-tips.png);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./646bff42a599ffea810cd95d_sales-outsourcing-tips.png);
   background-position:0 0,50% 100%;
   background-size:auto,cover;
   height:auto;
@@ -9019,7 +9018,7 @@ li{
   margin-bottom:0
 }
 .sales-management-europe-hero{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6047d3d41cd5e5501f4dac21_shutterstock_539126530.jpg);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./6047d3d41cd5e5501f4dac21_shutterstock_539126530.jpg);
   background-position:0 0,50% 100%;
   background-size:auto,cover;
   height:auto;
@@ -9047,7 +9046,7 @@ li{
   padding-bottom:10px
 }
 .business-development-hero{
-  background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/64cd3e2430d03b7d7c040946_business-development-services.png);
+  background-image:linear-gradient(#0000004d,#0000004d),url(./64cd3e2430d03b7d7c040946_business-development-services.png);
   background-position:0 0,50%;
   background-size:auto,cover;
   height:auto;
@@ -9086,7 +9085,7 @@ li{
 }
 .rezolve-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6508c83c3760b4efd63b469f_Rezolve.png);
+  background-image:url(./6508c83c3760b4efd63b469f_Rezolve.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:155px;
@@ -9094,7 +9093,7 @@ li{
 }
 .endless-gain-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6508d6e77b9b1005f6bbe87a_Endless-Gain.png);
+  background-image:url(./6508d6e77b9b1005f6bbe87a_Endless-Gain.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:135px;
@@ -9102,7 +9101,7 @@ li{
 }
 .bdo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6508da2c898b1f24f98f2d46_BDO.png);
+  background-image:url(./6508da2c898b1f24f98f2d46_BDO.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:155px;
@@ -9110,7 +9109,7 @@ li{
 }
 .osaango-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6508dc731734d79bc11a6686_Osaango.png);
+  background-image:url(./6508dc731734d79bc11a6686_Osaango.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:155px;
@@ -9118,7 +9117,7 @@ li{
 }
 .paragraf-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6508ddf7bc6d90669dfb9a7f_Paragraf.png);
+  background-image:url(./6508ddf7bc6d90669dfb9a7f_Paragraf.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:220px;
@@ -9126,7 +9125,7 @@ li{
 }
 .zinier-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6508df94ef01fb365b661771_Zinier.png);
+  background-image:url(./6508df94ef01fb365b661771_Zinier.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:155px;
@@ -9573,7 +9572,7 @@ li{
   font-size:18px
 }
 .salesdeveurope-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65caabc9585f26465f17e86a_Sales%20Development%20Services%20Europe.jpg);
+  background-image:linear-gradient(#0006,#0006),url(./65caabc9585f26465f17e86a_Sales%20Development%20Services%20Europe.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -9703,7 +9702,7 @@ li{
 }
 .mitigram-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d6a59b79ead164077aaadf_mitigram-logo.png);
+  background-image:url(./65d6a59b79ead164077aaadf_mitigram-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:100px;
@@ -9711,7 +9710,7 @@ li{
 }
 .objective-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d6a75e8fe8155b5e8d82c3_objective-logo.png);
+  background-image:url(./65d6a75e8fe8155b5e8d82c3_objective-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:180px;
@@ -9719,7 +9718,7 @@ li{
 }
 .softech-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d6a86396ae00d071936695_softech-logo.png);
+  background-image:url(./65d6a86396ae00d071936695_softech-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:180px;
@@ -9727,7 +9726,7 @@ li{
 }
 .trindent-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d6a9c3319e991e645a95be_trindent_logo.png);
+  background-image:url(./65d6a9c3319e991e645a95be_trindent_logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:215px;
@@ -9735,7 +9734,7 @@ li{
 }
 .nanotech-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d6ab75b2bd80ed1239a18c_nanotec-logo-2.png);
+  background-image:url(./65d6ab75b2bd80ed1239a18c_nanotec-logo-2.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:215px;
@@ -9743,7 +9742,7 @@ li{
 }
 .maistering-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b13b948fe34f7431c94e_maistering-logo.png);
+  background-image:url(./65d7b13b948fe34f7431c94e_maistering-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:270px;
@@ -9751,7 +9750,7 @@ li{
 }
 .performit-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b2c090bb0270a76ce50e_perform-it-logo.png);
+  background-image:url(./65d7b2c090bb0270a76ce50e_perform-it-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:270px;
@@ -9759,7 +9758,7 @@ li{
 }
 .knowtrex-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b3f2e4ee1d78b7fb03e6_knowtrex-logo.png);
+  background-image:url(./65d7b3f2e4ee1d78b7fb03e6_knowtrex-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:190px;
@@ -9767,7 +9766,7 @@ li{
 }
 .getresponse-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b5035586d66b72d4c122_getresponse-logo.png);
+  background-image:url(./65d7b5035586d66b72d4c122_getresponse-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:210px;
@@ -9775,7 +9774,7 @@ li{
 }
 .portbluesky-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b60c50cfbdd52019a471_port-blue-sky-logo.png);
+  background-image:url(./65d7b60c50cfbdd52019a471_port-blue-sky-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:100px;
@@ -9783,7 +9782,7 @@ li{
 }
 .loopearplugs-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b7b2027b310aa6eaa033_loop-earplugs-logo.png);
+  background-image:url(./65d7b7b2027b310aa6eaa033_loop-earplugs-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:220px;
@@ -9791,7 +9790,7 @@ li{
 }
 .leuwint-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7b93056032a6e273fa4ee_leuwint-logo.png);
+  background-image:url(./65d7b93056032a6e273fa4ee_leuwint-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -9799,14 +9798,14 @@ li{
 }
 .nuwe-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65d7baab3ee27f1500282bcc_NUWE-logo.png);
+  background-image:url(./65d7baab3ee27f1500282bcc_NUWE-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:180px;
   height:200px
 }
 .ebook-ty-global-section-three{
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e82599622128d723e802877_shutterstock_662834149.jpg);
+  background-image:linear-gradient(#00000080,#00000080),url(./5e82599622128d723e802877_shutterstock_662834149.jpg);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -9817,7 +9816,7 @@ li{
   display:flex
 }
 .ebook-ty-global-section-four{
-  background-image:linear-gradient(#00000080,#00000080),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/61e20bc0775d72be28e5e3c1_shutterstock_178533569.jpeg);
+  background-image:linear-gradient(#00000080,#00000080),url(./61e20bc0775d72be28e5e3c1_shutterstock_178533569.jpeg);
   background-position:0 0,50% 0;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -9829,7 +9828,7 @@ li{
 }
 .londonlondon-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65e285ac843067f242490d09_londonandlondon-logo.png);
+  background-image:url(./65e285ac843067f242490d09_londonandlondon-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -9837,7 +9836,7 @@ li{
 }
 .motionparadox-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/65e286d6746dd3ee8a912099_motionparadox-logo.png);
+  background-image:url(./65e286d6746dd3ee8a912099_motionparadox-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:75%;
@@ -9875,7 +9874,7 @@ li{
   max-width:22%
 }
 .outsourced-sales-executive-europe-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/667098cfccb38529ae375dc8_outsourced-sales-executive-europe.png);
+  background-image:linear-gradient(#0006,#0006),url(./667098cfccb38529ae375dc8_outsourced-sales-executive-europe.png);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -9891,7 +9890,7 @@ li{
   padding-bottom:60px
 }
 .outsourced-sales-management-europe-section{
-  background-image:linear-gradient(#0006,#0006),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/667099ebb812fb24129b831d_outsourced-sales-management-europe.png);
+  background-image:linear-gradient(#0006,#0006),url(./667099ebb812fb24129b831d_outsourced-sales-management-europe.png);
   background-position:0 0,50%;
   background-repeat:repeat,no-repeat;
   background-size:auto,cover;
@@ -9903,7 +9902,7 @@ li{
 }
 .geos-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/66e370d5a3508f9fd38386f3_GEOS%20Logo.png);
+  background-image:url(./66e370d5a3508f9fd38386f3_GEOS%20Logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:50%;
@@ -9911,7 +9910,7 @@ li{
 }
 .tscfo-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6740d60d7041e242c2d82053_TSCFO-logo.png);
+  background-image:url(./6740d60d7041e242c2d82053_TSCFO-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:150px;
@@ -9919,7 +9918,7 @@ li{
 }
 .purplan-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/674164fb09fe3b5feec60724_purplan-logo.png);
+  background-image:url(./674164fb09fe3b5feec60724_purplan-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:195px;
@@ -9927,7 +9926,7 @@ li{
 }
 .quantion-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/674166c1d10005101c00c218_quantion-logo.png);
+  background-image:url(./674166c1d10005101c00c218_quantion-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:205px;
@@ -9935,7 +9934,7 @@ li{
 }
 .risklogix-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/67416889f814ff0845ba1a30_risklogix-logo.png);
+  background-image:url(./67416889f814ff0845ba1a30_risklogix-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:210px;
@@ -9943,7 +9942,7 @@ li{
 }
 .abhandshake-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/67416a034ae7c5df1d165e8f_abhandshake-logo.png);
+  background-image:url(./67416a034ae7c5df1d165e8f_abhandshake-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:280px;
@@ -9951,7 +9950,7 @@ li{
 }
 .dost-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/6747b3fee9e7c5eb3fb70a93_dost-logo.png);
+  background-image:url(./6747b3fee9e7c5eb3fb70a93_dost-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:160px;
@@ -9959,7 +9958,7 @@ li{
 }
 .aivodot-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/674e24667c3ebf9d7f5bf2d1_aivodot-logo.png);
+  background-image:url(./674e24667c3ebf9d7f5bf2d1_aivodot-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:230px;
@@ -9967,7 +9966,7 @@ li{
 }
 .bannerflow-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/674e2605ef5af1c7b729fb2b_bannerflow-logo.png);
+  background-image:url(./674e2605ef5af1c7b729fb2b_bannerflow-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:240px;
@@ -9975,7 +9974,7 @@ li{
 }
 .timely-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/674e277d74f3cbe0daec422b_timely-logo.png);
+  background-image:url(./674e277d74f3cbe0daec422b_timely-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:160px;
@@ -9983,7 +9982,7 @@ li{
 }
 .bridgeheadagency-image{
   background-color:#f3f3f3;
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/674f7dbd53c8d4fc9ced53b4_bridgeheadagency-logo.png);
+  background-image:url(./674f7dbd53c8d4fc9ced53b4_bridgeheadagency-logo.png);
   background-position:50%;
   background-repeat:no-repeat;
   background-size:200px;
@@ -10829,7 +10828,7 @@ html.w-mod-js [data-ix=accordion]{
       min-height:250px
   }
   .isv-hero-microsoft-section{
-      background-image:linear-gradient(#0000004d,#0000004d),url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/60de3fd1676c090f41635cec_shutterstock_1171732147.jpg);
+      background-image:linear-gradient(#0000004d,#0000004d),url(./60de3fd1676c090f41635cec_shutterstock_1171732147.jpg);
       background-position:0 0,50%;
       background-repeat:repeat,no-repeat;
       background-size:auto,cover
@@ -11006,7 +11005,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:150px
   }
   .hero-overflow.right.hero-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -11184,7 +11183,7 @@ html.w-mod-js [data-ix=accordion]{
       margin-bottom:30px
   }
   .impact-section{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eded476446658137ce8e305_mapaSFE.png);
+      background-image:url(./5eded476446658137ce8e305_mapaSFE.png);
       background-position:50%;
       background-repeat:repeat;
       background-size:cover;
@@ -11396,7 +11395,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:150px
   }
   .ebook-overflow.right.hero-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -11425,7 +11424,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:275px
   }
   .ebook-overflow.right.ebook-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -11460,7 +11459,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:150px
   }
   .ebook-overflow.ebook-right-right.hero-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -11489,7 +11488,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:275px
   }
   .ebook-overflow.ebook-right-right.ebook-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -11702,7 +11701,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:150px
   }
   .isv-hero-overflow.right.hero-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -11742,7 +11741,7 @@ html.w-mod-js [data-ix=accordion]{
       padding-bottom:150px
   }
   .isv-next-step-hero-overflow.right.hero-right{
-      background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
+      background-image:url(./5e2b562a5839eb0382e552a5_SFE_Circle-rotate.svg);
       background-position:0 100%;
       background-repeat:no-repeat;
       background-size:1100px;
@@ -13074,91 +13073,84 @@ html.w-mod-js [data-ix=accordion]{
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c749cb0d7a16a0d2_Muli-BoldItalic.ttf') format('truetype');
+   src: url('./5e2b43d7c749cb0d7a16a0d2_Muli-BoldItalic.ttf') format('truetype');
    font-weight: 700;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c749cb5e0e16a0d1_Muli-Bold.ttf') format('truetype'), url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7a276e3f7271efc56_Muli-ExtraBold.ttf') format('truetype');
+   src: url('./5e2b43d7c749cb5e0e16a0d1_Muli-Bold.ttf') format('truetype'), url('./5e2b43d7a276e3f7271efc56_Muli-ExtraBold.ttf') format('truetype');
    font-weight: 700;
    font-style: normal;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7a276e355051efc57_Muli-ExtraBoldItalic.ttf') format('truetype');
+   src: url('./5e2b43d7a276e355051efc57_Muli-ExtraBoldItalic.ttf') format('truetype');
    font-weight: 800;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7a276e33cca1efc58_Muli-ExtraLightItalic.ttf') format('truetype');
+   src: url('./5e2b43d7a276e33cca1efc58_Muli-ExtraLightItalic.ttf') format('truetype');
    font-weight: 200;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c38bad0bb2546339_Muli-Italic.ttf') format('truetype');
+   src: url('./5e2b43d7c38bad0bb2546339_Muli-Italic.ttf') format('truetype');
    font-weight: 400;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7ec5100f0d139963c_Muli-Light.ttf') format('truetype');
+   src: url('./5e2b43d7ec5100f0d139963c_Muli-Light.ttf') format('truetype');
    font-weight: 300;
    font-style: normal;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c749cb596316a0d4_Muli-Regular.ttf') format('truetype');
+   src: url('./5e2b43d7c749cb596316a0d4_Muli-Regular.ttf') format('truetype');
    font-weight: 400;
    font-style: normal;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c38badbbeb54633a_Muli-SemiBold.ttf') format('truetype');
+   src: url('./5e2b43d7c38badbbeb54633a_Muli-SemiBold.ttf') format('truetype');
    font-weight: 600;
    font-style: normal;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d703cc9abb7e1bd116_Muli-LightItalic.ttf') format('truetype');
+   src: url('./5e2b43d703cc9abb7e1bd116_Muli-LightItalic.ttf') format('truetype');
    font-weight: 300;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c38bad6aba54633b_Muli-SemiBoldItalic.ttf') format('truetype');
+   src: url('./5e2b43d7c38bad6aba54633b_Muli-SemiBoldItalic.ttf') format('truetype');
    font-weight: 600;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d703cc9a54931bd110_Muli-Black.ttf') format('truetype');
-   font-weight: 900;
-   font-style: normal;
-   font-display: auto;
-}
-@font-face {
-   font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d733fc0c55d159f78f_Muli-BlackItalic.ttf') format('truetype');
+   src: url('./5e2b43d733fc0c55d159f78f_Muli-BlackItalic.ttf') format('truetype');
    font-weight: 900;
    font-style: italic;
    font-display: auto;
 }
 @font-face {
    font-family: 'Muli';
-   src: url('https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5e2b43d7c749cb5b3416a0d3_Muli-ExtraLight.ttf') format('truetype');
+   src: url('./5e2b43d7c749cb5b3416a0d3_Muli-ExtraLight.ttf') format('truetype');
    font-weight: 200;
    font-style: normal;
    font-display: auto;
