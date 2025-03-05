@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sobre Nós | Tech Engine World</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" type="image/png" href="files/logo.png" sizes="16x16">
+  <style>
+    /* Opcional: Estilização simples para o botão de menu hambúrguer */
+    .mobile-nav { display: none; }
+    @media (max-width: 768px) {
+      .mobile-nav { display: block; }
+      .desktop-nav { display: none; }
+    }
+  </style>
+</head>
+<body class="flex flex-col min-h-screen bg-slate-900 text-slate-300">
+  <!-- Cabeçalho com Navegação -->
+  <header class="w-full z-30 fixed bg-slate-800/70 backdrop-blur-sm">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <a href="index.html" class="inline-flex">
+          <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+        </a>
+        <!-- Navegação para Desktop -->
+        <nav class="desktop-nav">
+          <ul class="flex space-x-6 items-center">
+            <li><a href="index.html" class="hover:text-white transition duration-150">Início</a></li>
+            <li><a href="about.html" class="hover:text-white transition duration-150">Sobre Nós</a></li>
+            <li><a href="contact.html" class="hover:text-white transition duration-150">Contate-Nos</a></li>
+            <li><a href="terms.html" class="hover:text-white transition duration-150">Termos</a></li>
+            <li><a href="privacy.html" class="hover:text-white transition duration-150">Privacidade</a></li>
+          </ul>
+        </nav>
+        <!-- Botão de Menu Hambúrguer para Mobile -->
+        <div class="mobile-nav block md:hidden">
+          <button id="menu-btn" class="focus:outline-none">
+            <svg class="w-6 h-6 fill-slate-300 hover:fill-white transition duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- Menu de Navegação Mobile -->
+    <nav id="mobile-menu" class="hidden bg-slate-800">
+      <ul class="flex flex-col space-y-2 px-4 py-3">
+        <li><a href="index.html" class="block hover:text-white transition duration-150">Início</a></li>
+        <li><a href="about.html" class="block hover:text-white transition duration-150">Sobre Nós</a></li>
+        <li><a href="contact.html" class="block hover:text-white transition duration-150">Contate-Nos</a></li>
+        <li><a href="terms.html" class="block hover:text-white transition duration-150">Termos</a></li>
+        <li><a href="privacy.html" class="block hover:text-white transition duration-150">Privacidade</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main class="flex-grow pt-20">
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+      <div class="text-center">
+        <h1 class="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70 pb-4">
+          Sobre a Tech Engine World
+        </h1>
+        <p class="text-lg md:text-xl text-slate-300">
+          Na Tech Engine World, estamos na vanguarda da inovação tecnológica e financeira, dedicados a transformar o cenário empresarial no mundo digital em constante evolução. Não somos apenas uma empresa; somos um catalisador do progresso, capacitando negócios a não só navegar, mas prosperar nas complexidades do mercado moderno. Nossa expertise está em desenvolver soluções sob medida e de ponta que integram perfeitamente tecnologia e finanças, oferecendo uma base robusta para um crescimento sustentável e eficiência incomparável.
+
+          A Tech Engine World nasceu da visão de desmistificar a relação intrincada entre tecnologia e finanças, tornando ferramentas sofisticadas acessíveis e impactantes para empresas de todos os tamanhos. Entendemos os desafios que as empresas enfrentam para acompanhar os avanços tecnológicos enquanto gerenciam suas operações financeiras de forma eficaz. Por isso, nossa missão é preencher essa lacuna, oferecendo soluções integradas que são poderosas e fáceis de usar.
+
+          Nosso compromisso com a inovação é inabalável. Investimos continuamente em pesquisa e desenvolvimento, explorando as fronteiras da tecnologia para oferecer soluções que não são apenas atuais, mas preparadas para o futuro. Desde análises impulsionadas por inteligência artificial até transações seguras por blockchain, utilizamos as tecnologias mais avançadas para criar uma vantagem competitiva para nossos clientes. Acreditamos que a tecnologia deve ser um facilitador, um multiplicador de forças que amplifica o potencial humano e impulsiona o sucesso empresarial.
+
+          Mas nosso compromisso vai além da tecnologia. Estamos profundamente envolvidos em entender as necessidades financeiras únicas de cada empresa com a qual colaboramos. Nossas soluções financeiras são projetadas para serem adaptáveis e escaláveis, atendendo aos requisitos específicos de diversos setores e modelos de negócios. Acreditamos em parcerias de longo prazo, trabalhando lado a lado com nossos clientes para compreender seus objetivos e desafios, e fornecendo estratégias personalizadas que entregam resultados concretos. A Tech Engine World é mais que um provedor de serviços; somos seu aliado estratégico na jornada rumo à transformação digital e prosperidade financeira.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Nossa História
+        </h2>
+        <p>
+          A história da Tech Engine World começou em 2020, não em uma torre corporativa movimentada, mas na energia vibrante de uma pequena startup. Impulsionados por uma grande visão e uma paixão ainda maior, nossos fundadores se propuseram a atender uma necessidade crítica no mundo dos negócios: simplificar o cenário frequentemente complexo dos processos financeiros e digitais, especialmente para a espinha dorsal da nossa economia – as pequenas e médias empresas (PMEs). Reconhecemos que essas empresas, embora cheias de potencial, muitas vezes careciam dos recursos e da expertise para aproveitar plenamente a tecnologia e otimizar suas estratégias financeiras.
+
+          Partindo de origens humildes, munidos de laptops e de um compromisso compartilhado de fazer a diferença, a Tech Engine World começou a trilhar seu caminho. Nosso foco inicial foi desenvolver plataformas fáceis de usar que desmistificassem ferramentas financeiras complexas, tornando-as acessíveis para empresas sem departamentos de TI ou financeiros dedicados. O boca a boca se espalhou rapidamente à medida que os primeiros clientes experimentavam, em primeira mão, o poder transformador de nossas soluções – processos otimizados, redução de custos operacionais e tomada de decisão aprimorada.
+
+          À medida que ouvíamos nossa crescente base de clientes e acompanhávamos de perto o pulso do mercado em evolução, a Tech Engine World expandiu estrategicamente seus serviços. Aventuramo-nos no desenvolvimento de plataformas integradas que foram além das funcionalidades básicas, incorporando recursos como canais de comunicação direta para um engajamento aprimorado dos clientes e automação sofisticada de processos críticos para liberar capital humano valioso. Cada desafio encontrado foi encarado como uma oportunidade de aprendizado, uma chance de refinar nossas soluções e compreender melhor as necessidades específicas de diferentes empresas.
+
+          Nossa trajetória tem sido de constante evolução, marcada por inovações chave que capacitaram negócios em diversos setores a alcançar seus objetivos com velocidade e segurança inéditas. Orgulhamo-nos da confiança depositada por nossos clientes, um testemunho do nosso compromisso inabalável com a excelência e da nossa capacidade comprovada de entregar resultados. De uma pequena startup com um sonho a um líder reconhecido em soluções tecnológicas e financeiras, a história da Tech Engine World é uma narrativa de dedicação, inovação e uma busca incessante por capacitar empresas a prosperar na era digital.
+        </p>
+        <p>
+          Nossa paixão pela inovação nos impulsionou a desenvolver e refinar continuamente plataformas integradas que não são apenas ferramentas, mas verdadeiros ativos estratégicos para nossos clientes. Entendemos que uma comunicação eficaz é o elemento vital de qualquer negócio de sucesso, razão pela qual nossas plataformas facilitam uma comunicação direta e fluida, fortalecendo os laços com os clientes e permitindo uma resposta rápida às dinâmicas do mercado. Além disso, defendemos o poder da automação para liberar as empresas de tarefas mundanas e repetitivas, permitindo que elas se concentrem em iniciativas estratégicas e em suas competências essenciais.
+
+          Cada desafio que enfrentamos foi visto como uma oportunidade inestimável para aprender e evoluir. A natureza dinâmica dos setores de tecnologia e finanças exige adaptação constante, e a Tech Engine World sempre esteve na vanguarda dessa capacidade de resposta. Adaptamo-nos proativamente às necessidades em constante mudança do mercado, garantindo que nossas soluções permaneçam relevantes, eficazes e à frente do seu tempo. Com uma visão determinada para o futuro, a Tech Engine World continua investindo fortemente em pesquisa e desenvolvimento, expandindo os limites do possível para fornecer soluções escaláveis e personalizadas que atendam às demandas do mundo dos negócios moderno.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Missão e Valores
+        </h2>
+        <p>
+          No coração da Tech Engine World reside uma crença fundamental: a tecnologia, em sua forma mais poderosa, deve servir à humanidade e impulsionar os negócios de maneira positiva e significativa. Nossa missão não é apenas fornecer soluções que otimizem processos; é criar um efeito dominó de mudanças positivas, gerando um impacto duradouro tanto na comunidade que servimos quanto no ambiente que compartilhamos. Somos movidos por um profundo senso de propósito, esforçando-nos para criar tecnologia que seja não só eficiente, mas também eticamente correta e socialmente responsável.
+
+          Operamos com integridade inabalável, abraçando a transparência em todas as nossas relações e canalizando nossa paixão em cada projeto que realizamos. Nosso compromisso com a excelência não é apenas um jargão corporativo; está enraizado em nosso DNA. Buscamos incessantemente os mais altos padrões, constantemente nos desafiando a superar as expectativas de nossos clientes em cada engajamento. Acreditamos em construir confiança por meio de desempenho consistente, comunicação clara e uma dedicação genuína ao sucesso do cliente.
+
+          Nossos valores fundamentais são a base da Tech Engine World, guiando cada decisão e ação:
+          <br><br>
+          * <strong>Inovação:</strong> Somos incansáveis na busca por soluções revolucionárias, explorando constantemente novas tecnologias e metodologias para ultrapassar os limites do possível. Fomentamos uma cultura de criatividade e experimentação, incentivando nossa equipe a pensar fora da caixa e a desafiar abordagens convencionais.
+          <br><br>
+          * <strong>Compromisso:</strong> Estamos profundamente comprometidos com o sucesso de nossos clientes, fazendo o possível para compreender suas necessidades únicas e oferecer soluções que gerem resultados concretos. Esse compromisso se estende aos nossos colaboradores, parceiros e à comunidade, promovendo uma cultura de lealdade e apoio mútuo.
+          <br><br>
+          * <strong>Excelência:</strong> Almejamos a excelência em tudo o que fazemos, desde o design e desenvolvimento de nossas soluções até a qualidade do nosso atendimento. Mantemos os mais altos padrões de desempenho e estamos constantemente buscando formas de melhorar e aperfeiçoar nossos processos.
+          <br><br>
+          * <strong>Responsabilidade Social:</strong> Acreditamos em usar a tecnologia como uma força para o bem, buscando ativamente oportunidades para contribuir positivamente para a sociedade e minimizar nosso impacto ambiental. Comprometemo-nos com práticas comerciais éticas e lutamos por um futuro mais sustentável e inclusivo.
+          <br><br>
+          Temos imenso orgulho de colaborar com empresas que compartilham nossa visão, organizações que são movidas não só pelo lucro, mas também pelo desejo de construir um futuro melhor para todos. Confiança e segurança são os pilares das nossas relações com os clientes, e trabalhamos incansavelmente para conquistar e manter essa confiança todos os dias. Internamente, cultivamos um ambiente de trabalho inclusivo e dinâmico, onde cada membro da equipe se sente valorizado, respeitado e capacitado para contribuir com o seu melhor. Na Tech Engine World, não estamos apenas construindo tecnologia; estamos formando parcerias duradouras e moldando um amanhã melhor, juntos.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="bg-slate-800">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 md:py-12">
+      <div class="grid sm:grid-cols-12 gap-8">
+        <div class="sm:col-span-12 lg:col-span-6">
+          <div class="flex flex-col sm:flex-row lg:flex-col justify-between">
+            <a href="index.html" class="inline-flex mb-2">
+              <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+            </a>
+            <div class="text-sm text-slate-300">
+              © Tech Engine World 2025<span class="text-slate-500"> - </span>Todos os direitos reservados.
+              <br /> <br />
+            </div>
+            <div class="text-sm text-slate-300">
+              CNPJ: 78.989.613/0001-90<br />
+              Inscrição Estadual: 8324829-77<br />
+              Endereço: 974 Rua Itaguaí, Mangabeira, Feira de Santana, 44056-516<br />
+              Número de telefone: (75) 2871-8215
+            </div>
+          </div>
+        </div>
+        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
+          <h6 class="text-sm text-slate-50 font-medium mb-2">Empresa</h6>
+          <ul class="text-sm space-y-2">
+            <li><a href="about.html" class="hover:text-slate-200 transition duration-150" target="_blank">Sobre Nós</a></li>
+            <li><a href="contact.html" class="hover:text-slate-200 transition duration-150" target="_blank">Contate-Nos</a></li>
+            <li><a href="terms.html" class="hover:text-slate-200 transition duration-150" target="_blank">Termos</a></li>
+            <li><a href="privacy.html" class="hover:text-slate-200 transition duration-150" target="_blank">Privacidade</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- JavaScript para Alternar o Menu Mobile -->
+  <script>
+    const menuBtn = document.getElementById('menu-btn');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    menuBtn.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  </script>
+</body>
+</html>

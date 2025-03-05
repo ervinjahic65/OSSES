@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Política de Privacidade | Tech Engine World</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" type="image/png" href="files/logo.png" sizes="16x16">
+  <style>
+    /* Estilização simples para alternar a navegação mobile */
+    .mobile-nav { display: none; }
+    @media (max-width: 768px) {
+      .mobile-nav { display: block; }
+      .desktop-nav { display: none; }
+    }
+  </style>
+</head>
+<body class="flex flex-col min-h-screen bg-slate-900 text-slate-300">
+  <!-- Cabeçalho com Navegação -->
+  <header class="w-full z-30 fixed bg-slate-800/70 backdrop-blur-sm">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <a href="index.html" class="inline-flex">
+          <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+        </a>
+        <!-- Navegação Desktop -->
+        <nav class="desktop-nav">
+          <ul class="flex space-x-6 items-center">
+            <li><a href="index.html" class="hover:text-white transition duration-150">Início</a></li>
+            <li><a href="about.html" class="hover:text-white transition duration-150">Sobre Nós</a></li>
+            <li><a href="contact.html" class="hover:text-white transition duration-150">Contate-Nos</a></li>
+            <li><a href="terms.html" class="hover:text-white transition duration-150">Termos</a></li>
+            <li><a href="privacy.html" class="hover:text-white transition duration-150">Privacidade</a></li>
+          </ul>
+        </nav>
+        <!-- Botão de Menu Hambúrguer para Mobile -->
+        <div class="mobile-nav block md:hidden">
+          <button id="menu-btn" class="focus:outline-none">
+            <svg class="w-6 h-6 fill-slate-300 hover:fill-white transition duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- Menu de Navegação Mobile -->
+    <nav id="mobile-menu" class="hidden bg-slate-800">
+      <ul class="flex flex-col space-y-2 px-4 py-3">
+        <li><a href="index.html" class="block hover:text-white transition duration-150">Início</a></li>
+        <li><a href="about.html" class="block hover:text-white transition duration-150">Sobre Nós</a></li>
+        <li><a href="contact.html" class="block hover:text-white transition duration-150">Contate-Nos</a></li>
+        <li><a href="terms.html" class="block hover:text-white transition duration-150">Termos</a></li>
+        <li><a href="privacy.html" class="block hover:text-white transition duration-150">Privacidade</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main class="flex-grow pt-20">
+    <!-- Seção 1: Introdução -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+      <div class="text-center">
+        <h1 class="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70 pb-4">
+          Política de Privacidade
+        </h1>
+        <p class="text-lg md:text-xl text-slate-300">
+          Na Tech Engine World, valorizamos sua privacidade e estamos comprometidos em proteger seus dados pessoais. Esta política de privacidade explica como coletamos, usamos e protegemos as informações dos nossos usuários.
+        </p>
+      </div>
+    </section>
+
+    <!-- Seção 2: Coleta de Informações -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Coleta de Informações
+        </h2>
+        <p>
+          Coletamos informações quando você se registra em nosso site, preenche formulários ou interage com nossos serviços. Isso inclui dados pessoais como seu nome, endereço de e-mail e número de telefone, bem como informações técnicas coletadas automaticamente, como seu endereço IP e tipo de navegador.
+        </p>
+        <p>
+          Todas as informações são obtidas com o seu consentimento e são utilizadas para aprimorar a experiência do usuário, personalizar conteúdos e otimizar o desempenho de nossos serviços.
+        </p>
+      </div>
+    </section>
+
+    <!-- Seção 3: Uso e Proteção dos Dados -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Uso e Proteção dos Dados
+        </h2>
+        <p>
+          As informações coletadas são utilizadas para processar transações, gerenciar contas e enviar atualizações e notificações importantes. Na Tech Engine World, adotamos medidas de segurança de última geração para evitar acesso não autorizado, divulgação ou alteração de seus dados.
+        </p>
+        <p>
+          Todos os dados são armazenados em servidores seguros, e backups regulares são realizados para garantir a continuidade e confiabilidade do serviço. Apenas pessoas autorizadas têm acesso às informações pessoais, e todos os nossos colaboradores estão sujeitos a rigorosas obrigações de confidencialidade.
+        </p>
+      </div>
+    </section>
+
+    <!-- Seção 4: Seus Direitos e Alterações na Política -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Seus Direitos e Alterações na Política
+        </h2>
+        <p>
+          Você tem o direito de acessar, corrigir ou excluir seus dados pessoais. Se desejar exercer esses direitos ou tiver dúvidas sobre nossa política de privacidade, você pode entrar em contato conosco a qualquer momento por meio do nosso formulário de contato.
+        </p>
+        <p>
+          Reservamo-nos o direito de modificar esta política de privacidade a qualquer momento. Quaisquer alterações serão publicadas em nosso site e, se necessário, notificadas aos nossos usuários. Recomendamos a revisão periódica desta seção para se manter informado sobre como protegemos suas informações.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="bg-slate-800">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 md:py-12">
+      <div class="grid sm:grid-cols-12 gap-8">
+        <div class="sm:col-span-12 lg:col-span-6">
+          <div class="flex flex-col sm:flex-row lg:flex-col justify-between">
+            <a href="index.html" class="inline-flex mb-2">
+              <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+            </a>
+            <div class="text-sm text-slate-300">
+              © Tech Engine World 2025<span class="text-slate-500"> - </span>Todos os direitos reservados.
+              <br /><br />
+            </div>
+            <div class="text-sm text-slate-300">
+              CNPJ: 78.989.613/0001-90<br />
+              Inscrição Estadual: 8324829-77<br />
+              Endereço: 974 Rua Itaguaí, Mangabeira, Feira de Santana, 44056-516<br />
+              Número de telefone: (75) 2871-8215
+            </div>
+          </div>
+        </div>
+        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
+          <h6 class="text-sm text-slate-50 font-medium mb-2">Empresa</h6>
+          <ul class="text-sm space-y-2">
+            <li><a href="about.html" class="hover:text-slate-200 transition duration-150" target="_blank">Sobre Nós</a></li>
+            <li><a href="contact.html" class="hover:text-slate-200 transition duration-150" target="_blank">Contate-Nos</a></li>
+            <li><a href="terms.html" class="hover:text-slate-200 transition duration-150" target="_blank">Termos</a></li>
+            <li><a href="privacy.html" class="hover:text-slate-200 transition duration-150" target="_blank">Privacidade</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- JavaScript para Alternar o Menu Mobile -->
+  <script>
+    const menuBtn = document.getElementById('menu-btn');
+    const mobileMenu = document.getElementById('mobile-menu');
+    menuBtn.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  </script>
+</body>
+</html>
