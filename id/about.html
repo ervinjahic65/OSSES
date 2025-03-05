@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tentang Kami | Tech Engine World</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" type="image/png" href="files/logo.png" sizes="16x16">
+  <style>
+    /* Opsional: Styling sederhana untuk toggle hamburger */
+    .mobile-nav { display: none; }
+    @media (max-width: 768px) {
+      .mobile-nav { display: block; }
+      .desktop-nav { display: none; }
+    }
+  </style>
+</head>
+<body class="flex flex-col min-h-screen bg-slate-900 text-slate-300">
+  <!-- Header dengan Navigasi -->
+  <header class="w-full z-30 fixed bg-slate-800/70 backdrop-blur-sm">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <a href="index.html" class="inline-flex">
+          <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+        </a>
+        <!-- Navigasi Desktop -->
+        <nav class="desktop-nav">
+          <ul class="flex space-x-6 items-center">
+            <li><a href="index.html" class="hover:text-white transition duration-150">Beranda</a></li>
+            <li><a href="about.html" class="hover:text-white transition duration-150">Tentang Kami</a></li>
+            <li><a href="contact.html" class="hover:text-white transition duration-150">Hubungi Kami</a></li>
+            <li><a href="terms.html" class="hover:text-white transition duration-150">Syarat</a></li>
+            <li><a href="privacy.html" class="hover:text-white transition duration-150">Kebijakan</a></li>
+          </ul>
+        </nav>
+        <!-- Tombol Menu Hamburger Mobile -->
+        <div class="mobile-nav block md:hidden">
+          <button id="menu-btn" class="focus:outline-none">
+            <svg class="w-6 h-6 fill-slate-300 hover:fill-white transition duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- Menu Navigasi Mobile -->
+    <nav id="mobile-menu" class="hidden bg-slate-800">
+      <ul class="flex flex-col space-y-2 px-4 py-3">
+        <li><a href="index.html" class="block hover:text-white transition duration-150">Beranda</a></li>
+        <li><a href="about.html" class="block hover:text-white transition duration-150">Tentang Kami</a></li>
+        <li><a href="contact.html" class="block hover:text-white transition duration-150">Hubungi Kami</a></li>
+        <li><a href="terms.html" class="block hover:text-white transition duration-150">Syarat</a></li>
+        <li><a href="privacy.html" class="block hover:text-white transition duration-150">Kebijakan</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Konten Utama -->
+  <main class="flex-grow pt-20">
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+      <div class="text-center">
+        <h1 class="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70 pb-4">
+          Tentang Tech Engine World
+        </h1>
+        <p class="text-lg md:text-xl text-slate-300">
+          Di Tech Engine World, kami berada di garis depan inovasi teknologi dan keuangan, berdedikasi untuk mengubah lanskap bisnis di dunia digital yang berkembang pesat saat ini. Kami bukan sekadar perusahaan; kami adalah katalis untuk kemajuan, memberdayakan bisnis agar tidak hanya dapat menavigasi, tetapi juga berkembang dalam kompleksitas pasar modern. Keahlian kami terletak pada pembuatan solusi khusus yang mutakhir yang mengintegrasikan teknologi dan keuangan secara mulus, menyediakan fondasi yang kokoh untuk pertumbuhan berkelanjutan dan efisiensi yang tak tertandingi.
+
+          Tech Engine World lahir dari visi untuk mengungkap hubungan rumit antara teknologi dan keuangan, membuat alat-alat canggih dapat diakses dan berdampak bagi bisnis dari segala ukuran. Kami memahami tantangan yang dihadapi bisnis dalam mengikuti kemajuan teknologi sambil mengelola operasi keuangan secara efektif. Oleh karena itu, kami berkomitmen untuk menjembatani kesenjangan ini, menawarkan solusi terintegrasi yang tidak hanya kuat tetapi juga ramah pengguna.
+
+          Komitmen kami terhadap inovasi tidak pernah surut. Kami terus berinvestasi dalam penelitian dan pengembangan, menjelajahi batas-batas teknologi untuk menghadirkan solusi yang tidak hanya relevan saat ini, tetapi juga siap menghadapi masa depan. Dari analitik berbasis AI hingga transaksi yang diamankan dengan blockchain, kami memanfaatkan teknologi tercanggih untuk menciptakan keunggulan kompetitif bagi klien kami. Kami percaya bahwa teknologi seharusnya menjadi pemberdaya, pengganda kekuatan yang memperkuat potensi manusia dan mendorong kesuksesan bisnis.
+
+          Namun, komitmen kami tidak berhenti pada teknologi semata. Kami sangat memahami kebutuhan keuangan unik dari setiap bisnis yang kami layani. Solusi keuangan kami dirancang agar dapat beradaptasi dan diskalakan, memenuhi kebutuhan spesifik dari berbagai industri dan model bisnis. Kami percaya dalam menjalin kemitraan jangka panjang, bekerja sama dengan klien untuk memahami tujuan dan tantangan mereka, serta menyediakan strategi yang disesuaikan untuk memberikan hasil yang nyata. Tech Engine World lebih dari sekadar penyedia layanan; kami adalah sekutu strategis Anda dalam perjalanan menuju transformasi digital dan kemakmuran keuangan.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Sejarah Kami
+        </h2>
+        <p>
+          Kisah Tech Engine World dimulai pada tahun 2020, bukan di menara korporat yang megah, melainkan di energi dinamis sebuah startup kecil. Didorong oleh visi besar dan semangat yang semakin besar, para pendiri kami berusaha mengatasi kebutuhan penting di dunia bisnis: menyederhanakan lanskap proses keuangan dan digital yang sering kali rumit, terutama bagi tulang punggung ekonomi kita – usaha kecil dan menengah (UKM). Kami menyadari bahwa bisnis-bisnis ini, meskipun penuh potensi, sering kali kekurangan sumber daya dan keahlian untuk sepenuhnya memanfaatkan teknologi dan mengoptimalkan strategi keuangan mereka.
+
+          Dari awal yang sederhana, dengan peralatan seadanya dan komitmen bersama untuk membuat perubahan, Tech Engine World mulai menapaki jalannya. Fokus awal kami adalah membangun platform yang ramah pengguna yang dapat menjelaskan alat keuangan kompleks, sehingga dapat diakses oleh bisnis yang tidak memiliki departemen TI atau keuangan khusus. Dari mulut ke mulut, kabar tentang kekuatan transformatif solusi kami – alur kerja yang lebih efisien, pengurangan biaya operasional, dan peningkatan kemampuan pengambilan keputusan – segera menyebar.
+
+          Seiring dengan pertumbuhan basis klien dan pemantauan secara cermat terhadap denyut nadi pasar yang terus berkembang, Tech Engine World secara strategis memperluas penawaran layanannya. Kami mulai mengembangkan platform terintegrasi yang tidak hanya menyediakan fungsionalitas dasar, tetapi juga menggabungkan fitur seperti saluran komunikasi langsung untuk meningkatkan keterlibatan klien dan otomasi canggih dari proses-proses penting untuk membebaskan sumber daya manusia yang berharga. Setiap tantangan yang kami hadapi dipandang sebagai peluang berharga untuk belajar dan menyempurnakan solusi kami agar lebih memahami kebutuhan bisnis yang beragam.
+
+          Perjalanan kami adalah tentang evolusi yang konstan, ditandai oleh inovasi-inovasi kunci yang telah memberdayakan bisnis di berbagai sektor untuk mencapai tujuan mereka dengan kecepatan dan keamanan yang luar biasa. Kami bangga atas kepercayaan yang telah diberikan oleh klien kami, sebagai bukti komitmen kami yang tak tergoyahkan terhadap keunggulan dan kemampuan kami dalam menghasilkan hasil yang nyata. Dari startup kecil dengan mimpi besar hingga menjadi pemimpin yang diakui dalam solusi teknologi dan keuangan, sejarah Tech Engine World adalah narasi tentang dedikasi, inovasi, dan semangat untuk memberdayakan bisnis agar berkembang di era digital.
+        </p>
+        <p>
+          Hasrat kami terhadap inovasi mendorong kami untuk terus mengembangkan dan menyempurnakan platform terintegrasi yang tidak hanya berfungsi sebagai alat, tetapi juga sebagai aset strategis bagi klien kami. Kami memahami bahwa komunikasi yang efektif adalah nyawa dari setiap bisnis yang sukses, itulah sebabnya platform kami memfasilitasi komunikasi langsung yang lancar, membangun hubungan klien yang lebih kuat, dan memungkinkan respons cepat terhadap dinamika pasar. Selain itu, kami mengedepankan kekuatan otomasi untuk membebaskan bisnis dari tugas-tugas berulang yang membosankan, sehingga mereka dapat fokus pada inisiatif strategis dan kompetensi inti.
+
+          Setiap tantangan yang kami hadapi dipandang sebagai peluang berharga untuk belajar dan berkembang. Dinamika di sektor teknologi dan keuangan menuntut adaptasi yang konstan, dan Tech Engine World selalu berada di garis depan dalam hal responsivitas. Kami secara proaktif menyesuaikan diri dengan kebutuhan pasar yang terus berubah, memastikan bahwa solusi kami tetap relevan, efektif, dan selalu selangkah lebih maju. Dengan visi yang kuat ke depan, Tech Engine World terus berinvestasi besar-besaran dalam penelitian dan pengembangan, mendorong batas kemungkinan untuk menyediakan solusi yang dapat diskalakan dan disesuaikan dengan tuntutan dunia bisnis modern yang terus berkembang.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          Misi dan Nilai-Nilai
+        </h2>
+        <p>
+          Di jantung Tech Engine World terdapat keyakinan mendasar: teknologi, dalam bentuk yang paling kuat, harus melayani kemanusiaan dan mendorong bisnis ke depan dengan cara yang positif dan bermakna. Misi kami tidak sekadar menyediakan solusi untuk mengoptimalkan proses; melainkan menciptakan efek riak perubahan positif, memberikan dampak yang langgeng bagi komunitas yang kami layani dan lingkungan yang kita bagi bersama. Kami digerakkan oleh semangat yang mendalam, berupaya menciptakan teknologi yang tidak hanya efisien tetapi juga etis dan bertanggung jawab secara sosial.
+
+          Kami beroperasi dengan integritas yang tak tergoyahkan, mengedepankan transparansi dalam setiap tindakan, dan menyalurkan semangat kami ke dalam setiap proyek yang kami jalankan. Komitmen kami terhadap keunggulan bukan sekadar slogan perusahaan; itu terpatri dalam DNA kami. Kami terus menerus mengejar standar tertinggi, mendorong diri kami untuk melampaui ekspektasi klien dalam setiap keterlibatan. Kami percaya dalam membangun kepercayaan melalui kinerja yang konsisten, komunikasi yang jelas, dan dedikasi tulus terhadap kesuksesan klien.
+
+          Nilai-nilai inti kami adalah fondasi Tech Engine World, yang membimbing setiap keputusan dan tindakan kami:
+
+          * **Inovasi:** Kami tak kenal lelah dalam mencari solusi terobosan, terus mengeksplorasi teknologi dan metodologi baru untuk mendorong batas apa yang mungkin. Kami mendorong budaya kreativitas dan eksperimen, mendorong tim kami untuk berpikir di luar kotak dan menantang pendekatan konvensional.
+          * **Komitmen:** Kami berkomitmen penuh terhadap kesuksesan klien, melangkah lebih jauh untuk memahami kebutuhan unik mereka dan menyediakan solusi yang menghasilkan hasil nyata. Komitmen ini juga kami peruntukkan bagi karyawan, mitra, dan komunitas, menciptakan budaya loyalitas dan dukungan bersama.
+          * **Keunggulan:** Kami berusaha mencapai keunggulan dalam setiap aspek, mulai dari desain dan pengembangan solusi hingga kualitas layanan klien. Kami menetapkan standar kinerja tertinggi dan terus mencari cara untuk meningkatkan dan menyempurnakan proses kami.
+          * **Tanggung Jawab Sosial:** Kami percaya bahwa teknologi harus digunakan sebagai kekuatan untuk kebaikan, secara aktif mencari peluang untuk memberikan kontribusi positif bagi masyarakat dan meminimalkan dampak lingkungan. Kami berkomitmen pada praktik bisnis yang etis dan berupaya menciptakan masa depan yang lebih berkelanjutan dan inklusif.
+
+          Kami sangat bangga dapat bekerja sama dengan perusahaan-perusahaan yang memiliki visi yang sama, organisasi yang tidak hanya didorong oleh keuntungan tetapi juga oleh keinginan untuk membangun masa depan yang lebih baik untuk semua. Kepercayaan dan keamanan adalah landasan dari hubungan klien kami, dan kami bekerja tanpa lelah untuk mendapatkan serta mempertahankan kepercayaan itu setiap hari. Secara internal, kami menciptakan lingkungan kerja yang inklusif dan dinamis di mana setiap anggota tim merasa dihargai, dihormati, dan diberdayakan untuk memberikan yang terbaik. Di Tech Engine World, kami tidak hanya membangun teknologi; kami membangun kemitraan yang langgeng dan membentuk masa depan yang lebih baik, bersama-sama.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-slate-800">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 md:py-12">
+      <div class="grid sm:grid-cols-12 gap-8">
+        <div class="sm:col-span-12 lg:col-span-6">
+          <div class="flex flex-col sm:flex-row lg:flex-col justify-between">
+            <a href="index.html" class="inline-flex mb-2">
+              <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+            </a>
+            <div class="text-sm text-slate-300">
+              © Tech Engine World 2025<span class="text-slate-500"> - </span>Hak cipta dilindungi undang-undang.
+              <br /> <br />
+            </div>
+            <div class="text-sm text-slate-300">
+              Nomor Perusahaan: 00943935<br />
+              Alamat: Lime St, London EC3M 7HR, UK<br />
+              Nomor Telepon: 01632 960189
+            </div>
+          </div>
+        </div>
+        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
+          <h6 class="text-sm text-slate-50 font-medium mb-2">Perusahaan</h6>
+          <ul class="text-sm space-y-2">
+            <li><a href="about.html" class="hover:text-slate-200 transition duration-150" target="_blank">Tentang Kami</a></li>
+            <li><a href="contact.html" class="hover:text-slate-200 transition duration-150" target="_blank">Hubungi Kami</a></li>
+            <li><a href="terms.html" class="hover:text-slate-200 transition duration-150" target="_blank">Syarat</a></li>
+            <li><a href="privacy.html" class="hover:text-slate-200 transition duration-150" target="_blank">Kebijakan</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- JavaScript untuk Toggle Menu Mobile -->
+  <script>
+    const menuBtn = document.getElementById('menu-btn');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    menuBtn.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  </script>
+</body>
+</html>
