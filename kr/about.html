@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>회사 소개 | Tech Engine World</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" type="image/png" href="files/logo.png" sizes="16x16">
+  <style>
+    /* 선택 사항: 간단한 햄버거 토글 스타일 */
+    .mobile-nav { display: none; }
+    @media (max-width: 768px) {
+      .mobile-nav { display: block; }
+      .desktop-nav { display: none; }
+    }
+  </style>
+</head>
+<body class="flex flex-col min-h-screen bg-slate-900 text-slate-300">
+  <!-- 헤더 및 네비게이션 -->
+  <header class="w-full z-30 fixed bg-slate-800/70 backdrop-blur-sm">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <a href="index.html" class="inline-flex">
+          <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+        </a>
+        <!-- 데스크탑 네비게이션 -->
+        <nav class="desktop-nav">
+          <ul class="flex space-x-6 items-center">
+            <li><a href="index.html" class="hover:text-white transition duration-150">홈</a></li>
+            <li><a href="about.html" class="hover:text-white transition duration-150">회사 소개</a></li>
+            <li><a href="contact.html" class="hover:text-white transition duration-150">문의하기</a></li>
+            <li><a href="terms.html" class="hover:text-white transition duration-150">이용 약관</a></li>
+            <li><a href="privacy.html" class="hover:text-white transition duration-150">개인정보처리방침</a></li>
+          </ul>
+        </nav>
+        <!-- 모바일 햄버거 메뉴 버튼 -->
+        <div class="mobile-nav block md:hidden">
+          <button id="menu-btn" class="focus:outline-none">
+            <svg class="w-6 h-6 fill-slate-300 hover:fill-white transition duration-150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+              <path d="M3 6h14M3 10h14M3 14h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    <!-- 모바일 네비게이션 메뉴 -->
+    <nav id="mobile-menu" class="hidden bg-slate-800">
+      <ul class="flex flex-col space-y-2 px-4 py-3">
+        <li><a href="index.html" class="block hover:text-white transition duration-150">홈</a></li>
+        <li><a href="about.html" class="block hover:text-white transition duration-150">회사 소개</a></li>
+        <li><a href="contact.html" class="block hover:text-white transition duration-150">문의하기</a></li>
+        <li><a href="terms.html" class="block hover:text-white transition duration-150">이용 약관</a></li>
+        <li><a href="privacy.html" class="block hover:text-white transition duration-150">개인정보처리방침</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- 메인 콘텐츠 -->
+  <main class="flex-grow pt-20">
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+      <div class="text-center">
+        <h1 class="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70 pb-4">
+          Tech Engine World 소개
+        </h1>
+        <p class="text-lg md:text-xl text-slate-300">
+          Tech Engine World는 기술 및 금융 혁신의 최전선에 서 있으며, 오늘날 빠르게 변화하는 디지털 세계에서 비즈니스 환경을 재정의하는 데 전념하고 있습니다. 당사는 단순한 회사가 아니라 진보의 촉매제로, 복잡한 현대 시장 환경 속에서도 비즈니스가 성공할 수 있도록 지원합니다. 우리의 전문성은 맞춤형 첨단 솔루션을 제작하여 기술과 금융을 완벽하게 통합하고, 지속 가능한 성장과 탁월한 효율성을 위한 강력한 기반을 제공하는 데 있습니다.
+          <br><br>
+          Tech Engine World는 기술과 금융 간의 복잡한 관계를 해소하여 모든 규모의 비즈니스가 첨단 도구를 효과적으로 활용할 수 있도록 하겠다는 비전에서 출발했습니다. 우리는 비즈니스가 기술 발전에 발맞추어 나가면서도 효과적으로 금융 운영을 관리하는 데 어려움을 겪고 있다는 것을 잘 알고 있습니다. 그래서 이 격차를 해소하기 위해 강력하면서도 사용하기 쉬운 통합 솔루션을 제공하는 것을 사명으로 삼고 있습니다.
+          <br><br>
+          우리의 혁신에 대한 헌신은 확고합니다. 우리는 지속적으로 연구 및 개발에 투자하여, 최신 기술뿐만 아니라 미래에도 통할 솔루션을 제공하기 위해 기술의 최전선을 탐구하고 있습니다. AI 기반 분석에서부터 블록체인 보안 거래에 이르기까지, 우리는 가장 첨단의 기술을 활용하여 고객에게 경쟁 우위를 제공합니다. 우리는 기술이 인재의 잠재력을 극대화하고 비즈니스 성공을 이끄는 촉매제가 되어야 한다고 믿습니다.
+          <br><br>
+          그러나 우리의 헌신은 기술에만 국한되지 않습니다. 우리는 함께하는 각 비즈니스의 고유한 금융 요구를 깊이 이해하기 위해 노력합니다. 우리의 금융 솔루션은 다양한 산업과 비즈니스 모델의 특정 요구사항에 맞게 유연하고 확장 가능하도록 설계되었습니다. 우리는 고객의 목표와 도전을 면밀히 파악하고, 구체적인 전략을 제공하여 실질적인 결과를 도출하는 장기적인 파트너십을 추구합니다. Tech Engine World는 단순한 서비스 제공자를 넘어, 디지털 혁신과 금융 번영을 향한 여정에서 귀하의 전략적 동반자입니다.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          연혁
+        </h2>
+        <p>
+          Tech Engine World의 이야기는 2020년에 시작되었습니다. 번화한 기업 빌딩이 아니라 작은 스타트업의 생동감 넘치는 에너지 속에서 시작되었습니다. 큰 비전과 그보다 더 큰 열정을 가진 창업자들은 비즈니스 세계에서 중요한 문제, 즉 복잡한 금융 및 디지털 프로세스를 단순화하는 문제를 해결하고자 했습니다. 특히 중소기업(SMB)이 경제의 중추임에도 불구하고, 기술을 충분히 활용하고 금융 전략을 최적화할 자원과 전문성이 부족하다는 점을 인식했습니다.
+          <br><br>
+          소박한 시작에서 노트북과 변화를 만들고자 하는 공동의 의지로 Tech Engine World는 길을 열기 시작했습니다. 초기에는 전담 IT나 재무 부서가 없는 비즈니스도 복잡한 금융 도구를 쉽게 활용할 수 있도록 사용자 친화적인 플랫폼을 구축하는 데 주력했습니다. 초기 고객들이 당사의 솔루션을 통해 업무 효율화, 운영 비용 절감, 그리고 의사결정 능력 향상을 경험하면서 입소문은 빠르게 퍼져 나갔습니다.
+          <br><br>
+          고객의 의견에 귀 기울이고 변화하는 시장의 흐름을 주의 깊게 관찰하면서 Tech Engine World는 서비스 제공 범위를 전략적으로 확장했습니다. 기본적인 기능을 넘어, 고객 참여를 위한 직접 통신 채널과 중요한 프로세스의 자동화를 통한 인적 자원 확보 기능 등 다양한 기능을 통합한 플랫폼을 개발하기 시작했습니다. 우리가 직면한 모든 도전은 배움의 기회로 받아들여졌으며, 그 결과 다양한 비즈니스의 세밀한 요구를 보다 잘 이해하고 솔루션을 개선할 수 있었습니다.
+          <br><br>
+          우리의 여정은 끊임없는 발전의 과정이었으며, 주요 혁신을 통해 다양한 분야의 비즈니스가 전례 없는 속도와 보안으로 목표를 달성할 수 있도록 지원했습니다. 우리는 고객이 우리를 신뢰해 준 것에 자부심을 느끼며, 이는 우리의 탁월함에 대한 헌신과 검증된 성과를 증명합니다. 작은 꿈을 가진 스타트업에서 기술 및 금융 솔루션 분야의 인정받는 선두주자로 성장한 Tech Engine World의 역사는 헌신, 혁신, 그리고 디지털 시대에 비즈니스가 번창할 수 있도록 하는 끊임없는 노력의 기록입니다.
+        </p>
+        <p>
+          우리의 혁신에 대한 열정은 고객에게 단순한 도구를 넘어 전략적 자산이 되는 통합 플랫폼을 지속적으로 개발하고 개선하도록 이끌어 왔습니다. 효과적인 소통이 모든 성공적인 비즈니스의 생명선임을 이해하고 있기에, 당사의 플랫폼은 원활한 직접 통신을 촉진하여 강력한 고객 관계를 형성하고 시장 변화에 신속히 대응할 수 있도록 지원합니다. 또한, 반복적이고 단조로운 업무에서 벗어나 전략적 과제와 핵심 역량에 집중할 수 있도록 자동화의 힘을 적극 활용하고 있습니다.
+          <br><br>
+          우리가 마주한 모든 도전은 귀중한 학습 기회로 여겨졌습니다. 기술 및 금융 분야의 역동적인 특성은 끊임없는 적응을 요구하며, Tech Engine World는 항상 이에 앞서 대응해왔습니다. 우리는 변화하는 시장의 요구에 선제적으로 대응하여 당사의 솔루션이 항상 유효하고 효과적이며 선도적인 위치를 유지할 수 있도록 합니다. 미래를 내다보는 확고한 비전 아래, Tech Engine World는 연구 및 개발에 지속적으로 투자하며, 현대 비즈니스 세계의 끊임없이 변화하는 요구를 충족시킬 수 있는 확장 가능하고 맞춤형 솔루션을 제공하기 위해 한계를 뛰어넘고 있습니다.
+        </p>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-700">
+      <div class="space-y-4">
+        <h2 class="text-3xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/70 to-slate-100/70">
+          미션 및 가치
+        </h2>
+        <p>
+          Tech Engine World의 중심에는 한 가지 근본적인 믿음이 있습니다: 가장 강력한 형태의 기술은 인류에 봉사하며 비즈니스를 긍정적이고 의미 있는 방향으로 나아가게 해야 한다는 것입니다. 우리의 사명은 단순히 프로세스를 최적화하는 솔루션을 제공하는 것이 아니라, 긍정적인 변화를 일으키고, 우리가 속한 공동체와 함께하는 환경에 지속적인 영향을 미치는 것입니다. 우리는 깊은 사명감을 바탕으로 효율적일 뿐만 아니라 윤리적이고 사회적으로 책임 있는 기술을 창조하기 위해 노력하고 있습니다.
+          <br><br>
+          우리는 모든 거래에 있어서 투명성을 유지하며 확고한 도덕적 기준에 따라 운영합니다. 탁월함에 대한 우리의 헌신은 단순한 기업 슬로건이 아니라 우리의 DNA에 새겨져 있습니다. 우리는 항상 최고 수준의 성과를 위해 노력하며, 고객의 기대를 뛰어넘기 위해 끊임없이 자신을 발전시키고 개선할 방법을 모색합니다. 우리는 일관된 성과, 명확한 소통, 그리고 고객 성공에 대한 진정한 헌신을 통해 신뢰를 구축한다고 믿습니다.
+          <br><br>
+          우리의 핵심 가치는 Tech Engine World의 기반이며, 우리가 내리는 모든 결정과 행동을 이끕니다:
+          <br><br>
+          * <strong>혁신:</strong> 우리는 획기적인 솔루션을 찾기 위해 끊임없이 노력하며, 새로운 기술과 방법론을 탐구하여 가능성의 한계를 확장합니다. 당사는 창의성과 실험을 장려하는 문화를 조성하며, 팀이 틀에 얽매이지 않고 새로운 접근 방식을 도전하도록 독려합니다.
+          <br><br>
+          * <strong>헌신:</strong> 우리는 고객의 성공에 깊이 헌신하며, 고객의 고유한 요구를 이해하고 실질적인 결과를 창출하는 솔루션을 제공하기 위해 최선을 다합니다. 이 헌신은 직원, 파트너, 그리고 커뮤니티로까지 확장되어 상호 신뢰와 지원의 문화를 조성합니다.
+          <br><br>
+          * <strong>탁월함:</strong> 우리는 솔루션의 설계 및 개발부터 고객 서비스의 품질에 이르기까지 모든 면에서 탁월함을 추구합니다. 우리는 최고의 성과 기준을 준수하며, 지속적인 개선과 혁신을 통해 프로세스를 최적화하고자 합니다.
+          <br><br>
+          * <strong>사회적 책임:</strong> 우리는 기술을 선한 영향력을 발휘하는 도구로 활용하며, 사회에 긍정적인 기여를 하고 환경에 미치는 영향을 최소화할 기회를 적극 모색합니다. 우리는 윤리적인 비즈니스 관행을 준수하며, 보다 지속 가능하고 포용적인 미래를 만들어 나가고자 합니다.
+          <br><br>
+          우리는 우리의 비전을 공유하는 기업들과 협력하게 된 것을 매우 자랑스럽게 생각합니다. 이들 기업은 단순히 이익을 추구하는 것을 넘어, 모두를 위한 더 나은 미래를 구축하고자 하는 열망을 가지고 있습니다. 신뢰와 보안은 고객 관계의 초석이며, 우리는 매일 그 신뢰를 얻고 유지하기 위해 노력하고 있습니다. 내부적으로도, Tech Engine World는 모든 팀원이 존중받고 가치를 인정받으며 최고의 역량을 발휘할 수 있는 포용적이고 역동적인 근무 환경을 조성하고 있습니다. Tech Engine World는 단순히 기술을 구축하는 것이 아니라, 지속 가능한 파트너십을 형성하고 함께 더 나은 내일을 만들어 가고 있습니다.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- 푸터 -->
+  <footer class="bg-slate-800">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 md:py-12">
+      <div class="grid sm:grid-cols-12 gap-8">
+        <div class="sm:col-span-12 lg:col-span-6">
+          <div class="flex flex-col sm:flex-row lg:flex-col justify-between">
+            <a href="index.html" class="inline-flex mb-2">
+              <img src="files/logo.png" alt="Logo" width="184" height="32" class="max-w-none h-16" />
+            </a>
+            <div class="text-sm text-slate-300">
+              © Tech Engine World2025<span class="text-slate-500"> - </span>모든 권리 보유.
+              <br /> <br />
+            </div>
+            <div class="text-sm text-slate-300">
+              주소: 서울특별시 중구 서소문동 21-1<br />
+              전화: +34 986 227 374<br />
+              법인 등록 번호: 4010501096087
+            </div>
+          </div>
+        </div>
+        <div class="sm:col-span-6 md:col-span-3 lg:col-span-2">
+          <h6 class="text-sm text-slate-50 font-medium mb-2">회사</h6>
+          <ul class="text-sm space-y-2">
+            <li><a href="about.html" class="hover:text-slate-200 transition duration-150" target="_blank">회사 소개</a></li>
+            <li><a href="contact.html" class="hover:text-slate-200 transition duration-150" target="_blank">문의하기</a></li>
+            <li><a href="terms.html" class="hover:text-slate-200 transition duration-150" target="_blank">이용 약관</a></li>
+            <li><a href="privacy.html" class="hover:text-slate-200 transition duration-150" target="_blank">개인정보처리방침</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- 모바일 메뉴 토글을 위한 JavaScript -->
+  <script>
+    const menuBtn = document.getElementById('menu-btn');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    menuBtn.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  </script>
+</body>
+</html>
