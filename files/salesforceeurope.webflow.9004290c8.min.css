@@ -7399,7 +7399,7 @@ li{
   display:grid
 }
 .div-block-114{
-  background-image:url(https://cdn.prod.website-files.com/5e2b3e76d62ad406a7555f9b/5eb59d410bfbe013c753b140_sfe-ebook-build-your-euro.jpg);
+  background-image:url('./book-img.png');
   background-position:50%;
   background-size:cover;
   height:auto
